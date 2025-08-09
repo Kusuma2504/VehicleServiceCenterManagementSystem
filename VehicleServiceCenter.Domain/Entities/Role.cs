@@ -9,7 +9,7 @@ namespace VehicleServiceCenter.Domain.Entities
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public int Id { get; set; }
 
-        public string Name { get; set; } = string.Empty;
+        public string Name { get; set; }
 
         public ICollection<UserRole> UserRoles { get; set; }
     }
