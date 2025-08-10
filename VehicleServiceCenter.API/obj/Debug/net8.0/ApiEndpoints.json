@@ -117,7 +117,7 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "VehicleServiceCenter.API.Controllers.UserController",
+    "ContainingType": "VehicleServiceCenter.Presentation.Controllers.UserController",
     "Method": "GetAllUsers",
     "RelativePath": "api/User",
     "HttpMethod": "GET",
@@ -127,7 +127,7 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "VehicleServiceCenter.API.Controllers.UserController",
+    "ContainingType": "VehicleServiceCenter.Presentation.Controllers.UserController",
     "Method": "CreateUser",
     "RelativePath": "api/User",
     "HttpMethod": "POST",
@@ -143,7 +143,7 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "VehicleServiceCenter.API.Controllers.UserController",
+    "ContainingType": "VehicleServiceCenter.Presentation.Controllers.UserController",
     "Method": "GetUserById",
     "RelativePath": "api/User/{id}",
     "HttpMethod": "GET",
@@ -159,7 +159,7 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "VehicleServiceCenter.API.Controllers.UserController",
+    "ContainingType": "VehicleServiceCenter.Presentation.Controllers.UserController",
     "Method": "UpdateUser",
     "RelativePath": "api/User/{id}",
     "HttpMethod": "PUT",
@@ -180,7 +180,7 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "VehicleServiceCenter.API.Controllers.UserController",
+    "ContainingType": "VehicleServiceCenter.Presentation.Controllers.UserController",
     "Method": "DeleteUser",
     "RelativePath": "api/User/{id}",
     "HttpMethod": "DELETE",
@@ -190,6 +190,38 @@
       {
         "Name": "id",
         "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "VehicleServiceCenter.Presentation.Controllers.UserController",
+    "Method": "AssignRole",
+    "RelativePath": "api/User/assign-role",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "VehicleServiceCenter.Application.DTOs.Users.AssignRoleDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "VehicleServiceCenter.Presentation.Controllers.UserController",
+    "Method": "RemoveRole",
+    "RelativePath": "api/User/remove-role",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "VehicleServiceCenter.Application.DTOs.Users.AssignRoleDto",
         "IsRequired": true
       }
     ],

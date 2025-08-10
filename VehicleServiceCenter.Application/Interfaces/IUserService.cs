@@ -1,4 +1,6 @@
-﻿using VehicleServiceCenter.Application.DTOs.Users;
+﻿using System.Collections.Generic;
+using System.Threading.Tasks;
+using VehicleServiceCenter.Application.DTOs.Users;
 
 namespace VehicleServiceCenter.Application.Interfaces
 {
@@ -9,5 +11,8 @@ namespace VehicleServiceCenter.Application.Interfaces
         Task<UserDto> CreateUserAsync(CreateUserDto dto);
         Task<UserDto> UpdateUserAsync(int id, UpdateUserDto dto);
         Task<bool> DeleteUserAsync(int id);
+
+        Task AssignRoleAsync(int userId, string roleName);
+        Task RemoveRoleAsync(int userId, string roleName);
     }
 }
