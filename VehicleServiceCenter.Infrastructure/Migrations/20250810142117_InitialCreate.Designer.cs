@@ -12,8 +12,8 @@ using VehicleServiceCenter.Infrastructure.Data;
 namespace VehicleServiceCenter.Infrastructure.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20250810063326_VehicleServiceCenterMigration")]
-    partial class VehicleServiceCenterMigration
+    [Migration("20250810142117_InitialCreate")]
+    partial class InitialCreate
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)

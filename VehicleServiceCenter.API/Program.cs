@@ -19,6 +19,9 @@ builder.Services.AddControllers();
 builder.Services.AddScoped<IVehicleService, VehicleService>();
 builder.Services.AddScoped<VehicleRepository>();
 
+//for service request adding these services
+builder.Services.AddScoped<IServiceRequestService, ServiceRequestService>();
+builder.Services.AddScoped<ServiceRequestRepository>();
 
 // Load configuration
 builder.Configuration.AddJsonFile("appsettings.json", optional: false, reloadOnChange: true);

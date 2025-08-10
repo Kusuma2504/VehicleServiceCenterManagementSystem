@@ -6,7 +6,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 namespace VehicleServiceCenter.Infrastructure.Migrations
 {
     /// <inheritdoc />
-    public partial class VehicleServiceCenterMigration : Migration
+    public partial class InitialCreate : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
