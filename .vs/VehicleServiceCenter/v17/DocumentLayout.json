@@ -1,122 +1,146 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\projecttt\\",
+  "WorkspaceRootPath": "C:\\Users\\Lanka Ramya\\OneDrive\\Desktop\\VechileServiceCenterManagementSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8D6521E5-A81D-44FA-A662-11EC8B47B3E6}|VehicleServiceCenter.API\\VehicleServiceCenter.API.csproj|c:\\users\\lenovo\\onedrive\\desktop\\projecttt\\vehicleservicecenter.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D6521E5-A81D-44FA-A662-11EC8B47B3E6}|VehicleServiceCenter.API\\VehicleServiceCenter.API.csproj|solutionrelative:vehicleservicecenter.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{44DDCACA-4E9E-4F6F-847F-3A0844753272}|VehicleServiceCenter.Infrastructure\\VehicleServiceCenter.Infrastructure.csproj|c:\\users\\lanka ramya\\onedrive\\desktop\\vechileservicecentermanagementsystem\\vehicleservicecenter.infrastructure\\repositories\\vehiclerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44DDCACA-4E9E-4F6F-847F-3A0844753272}|VehicleServiceCenter.Infrastructure\\VehicleServiceCenter.Infrastructure.csproj|solutionrelative:vehicleservicecenter.infrastructure\\repositories\\vehiclerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44DDCACA-4E9E-4F6F-847F-3A0844753272}|VehicleServiceCenter.Infrastructure\\VehicleServiceCenter.Infrastructure.csproj|c:\\users\\lenovo\\onedrive\\desktop\\projecttt\\vehicleservicecenter.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44DDCACA-4E9E-4F6F-847F-3A0844753272}|VehicleServiceCenter.Infrastructure\\VehicleServiceCenter.Infrastructure.csproj|solutionrelative:vehicleservicecenter.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7D75DE34-A95C-4C78-AB4B-1E59D9234C25}|VehicleServiceCenter.Application\\VehicleServiceCenter.Application.csproj|c:\\users\\lanka ramya\\onedrive\\desktop\\vechileservicecentermanagementsystem\\vehicleservicecenter.application\\interfaces\\ivehicleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D75DE34-A95C-4C78-AB4B-1E59D9234C25}|VehicleServiceCenter.Application\\VehicleServiceCenter.Application.csproj|solutionrelative:vehicleservicecenter.application\\interfaces\\ivehicleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D6521E5-A81D-44FA-A662-11EC8B47B3E6}|VehicleServiceCenter.API\\VehicleServiceCenter.API.csproj|c:\\users\\lenovo\\onedrive\\desktop\\projecttt\\vehicleservicecenter.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{8D6521E5-A81D-44FA-A662-11EC8B47B3E6}|VehicleServiceCenter.API\\VehicleServiceCenter.API.csproj|solutionrelative:vehicleservicecenter.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D6521E5-A81D-44FA-A662-11EC8B47B3E6}|VehicleServiceCenter.API\\VehicleServiceCenter.API.csproj|c:\\users\\lenovo\\onedrive\\desktop\\projecttt\\vehicleservicecenter.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D6521E5-A81D-44FA-A662-11EC8B47B3E6}|VehicleServiceCenter.API\\VehicleServiceCenter.API.csproj|solutionrelative:vehicleservicecenter.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D75DE34-A95C-4C78-AB4B-1E59D9234C25}|VehicleServiceCenter.Application\\VehicleServiceCenter.Application.csproj|c:\\users\\lenovo\\onedrive\\desktop\\projecttt\\vehicleservicecenter.application\\dtos\\users\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D75DE34-A95C-4C78-AB4B-1E59D9234C25}|VehicleServiceCenter.Application\\VehicleServiceCenter.Application.csproj|solutionrelative:vehicleservicecenter.application\\dtos\\users\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D75DE34-A95C-4C78-AB4B-1E59D9234C25}|VehicleServiceCenter.Application\\VehicleServiceCenter.Application.csproj|c:\\users\\lenovo\\onedrive\\desktop\\projecttt\\vehicleservicecenter.application\\dtos\\users\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D75DE34-A95C-4C78-AB4B-1E59D9234C25}|VehicleServiceCenter.Application\\VehicleServiceCenter.Application.csproj|solutionrelative:vehicleservicecenter.application\\dtos\\users\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D75DE34-A95C-4C78-AB4B-1E59D9234C25}|VehicleServiceCenter.Application\\VehicleServiceCenter.Application.csproj|c:\\users\\lenovo\\onedrive\\desktop\\projecttt\\vehicleservicecenter.application\\dtos\\users\\updateuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D75DE34-A95C-4C78-AB4B-1E59D9234C25}|VehicleServiceCenter.Application\\VehicleServiceCenter.Application.csproj|solutionrelative:vehicleservicecenter.application\\dtos\\users\\updateuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D75DE34-A95C-4C78-AB4B-1E59D9234C25}|VehicleServiceCenter.Application\\VehicleServiceCenter.Application.csproj|c:\\users\\lenovo\\onedrive\\desktop\\projecttt\\vehicleservicecenter.application\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7D75DE34-A95C-4C78-AB4B-1E59D9234C25}|VehicleServiceCenter.Application\\VehicleServiceCenter.Application.csproj|c:\\users\\lanka ramya\\onedrive\\desktop\\vechileservicecentermanagementsystem\\vehicleservicecenter.application\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D75DE34-A95C-4C78-AB4B-1E59D9234C25}|VehicleServiceCenter.Application\\VehicleServiceCenter.Application.csproj|solutionrelative:vehicleservicecenter.application\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D75DE34-A95C-4C78-AB4B-1E59D9234C25}|VehicleServiceCenter.Application\\VehicleServiceCenter.Application.csproj|c:\\users\\lenovo\\onedrive\\desktop\\projecttt\\vehicleservicecenter.application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D75DE34-A95C-4C78-AB4B-1E59D9234C25}|VehicleServiceCenter.Application\\VehicleServiceCenter.Application.csproj|solutionrelative:vehicleservicecenter.application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7D75DE34-A95C-4C78-AB4B-1E59D9234C25}|VehicleServiceCenter.Application\\VehicleServiceCenter.Application.csproj|c:\\users\\lanka ramya\\onedrive\\desktop\\vechileservicecentermanagementsystem\\vehicleservicecenter.application\\services\\vehicleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D75DE34-A95C-4C78-AB4B-1E59D9234C25}|VehicleServiceCenter.Application\\VehicleServiceCenter.Application.csproj|solutionrelative:vehicleservicecenter.application\\services\\vehicleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D75DE34-A95C-4C78-AB4B-1E59D9234C25}|VehicleServiceCenter.Application\\VehicleServiceCenter.Application.csproj|c:\\users\\lenovo\\onedrive\\desktop\\projecttt\\vehicleservicecenter.application\\dtos\\auth\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D75DE34-A95C-4C78-AB4B-1E59D9234C25}|VehicleServiceCenter.Application\\VehicleServiceCenter.Application.csproj|solutionrelative:vehicleservicecenter.application\\dtos\\auth\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8D6521E5-A81D-44FA-A662-11EC8B47B3E6}|VehicleServiceCenter.API\\VehicleServiceCenter.API.csproj|c:\\users\\lanka ramya\\onedrive\\desktop\\vechileservicecentermanagementsystem\\vehicleservicecenter.api\\controllers\\vehiclecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6521E5-A81D-44FA-A662-11EC8B47B3E6}|VehicleServiceCenter.API\\VehicleServiceCenter.API.csproj|solutionrelative:vehicleservicecenter.api\\controllers\\vehiclecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D75DE34-A95C-4C78-AB4B-1E59D9234C25}|VehicleServiceCenter.Application\\VehicleServiceCenter.Application.csproj|c:\\users\\lenovo\\onedrive\\desktop\\projecttt\\vehicleservicecenter.application\\dtos\\auth\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D75DE34-A95C-4C78-AB4B-1E59D9234C25}|VehicleServiceCenter.Application\\VehicleServiceCenter.Application.csproj|solutionrelative:vehicleservicecenter.application\\dtos\\auth\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8D6521E5-A81D-44FA-A662-11EC8B47B3E6}|VehicleServiceCenter.API\\VehicleServiceCenter.API.csproj|c:\\users\\lanka ramya\\onedrive\\desktop\\vechileservicecentermanagementsystem\\vehicleservicecenter.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6521E5-A81D-44FA-A662-11EC8B47B3E6}|VehicleServiceCenter.API\\VehicleServiceCenter.API.csproj|solutionrelative:vehicleservicecenter.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D75DE34-A95C-4C78-AB4B-1E59D9234C25}|VehicleServiceCenter.Application\\VehicleServiceCenter.Application.csproj|c:\\users\\lenovo\\onedrive\\desktop\\projecttt\\vehicleservicecenter.application\\vehicleservicecenter.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{7D75DE34-A95C-4C78-AB4B-1E59D9234C25}|VehicleServiceCenter.Application\\VehicleServiceCenter.Application.csproj|solutionrelative:vehicleservicecenter.application\\vehicleservicecenter.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{8D6521E5-A81D-44FA-A662-11EC8B47B3E6}|VehicleServiceCenter.API\\VehicleServiceCenter.API.csproj|c:\\users\\lanka ramya\\onedrive\\desktop\\vechileservicecentermanagementsystem\\vehicleservicecenter.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8D6521E5-A81D-44FA-A662-11EC8B47B3E6}|VehicleServiceCenter.API\\VehicleServiceCenter.API.csproj|solutionrelative:vehicleservicecenter.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D6521E5-A81D-44FA-A662-11EC8B47B3E6}|VehicleServiceCenter.API\\VehicleServiceCenter.API.csproj|c:\\users\\lenovo\\onedrive\\desktop\\projecttt\\vehicleservicecenter.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7D75DE34-A95C-4C78-AB4B-1E59D9234C25}|VehicleServiceCenter.Application\\VehicleServiceCenter.Application.csproj|c:\\users\\lanka ramya\\onedrive\\desktop\\vechileservicecentermanagementsystem\\vehicleservicecenter.application\\dtos\\vehicle\\updatevehicledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D75DE34-A95C-4C78-AB4B-1E59D9234C25}|VehicleServiceCenter.Application\\VehicleServiceCenter.Application.csproj|solutionrelative:vehicleservicecenter.application\\dtos\\vehicle\\updatevehicledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D75DE34-A95C-4C78-AB4B-1E59D9234C25}|VehicleServiceCenter.Application\\VehicleServiceCenter.Application.csproj|c:\\users\\lanka ramya\\onedrive\\desktop\\vechileservicecentermanagementsystem\\vehicleservicecenter.application\\dtos\\vehicle\\createvehicledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D75DE34-A95C-4C78-AB4B-1E59D9234C25}|VehicleServiceCenter.Application\\VehicleServiceCenter.Application.csproj|solutionrelative:vehicleservicecenter.application\\dtos\\vehicle\\createvehicledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D75DE34-A95C-4C78-AB4B-1E59D9234C25}|VehicleServiceCenter.Application\\VehicleServiceCenter.Application.csproj|c:\\users\\lanka ramya\\onedrive\\desktop\\vechileservicecentermanagementsystem\\vehicleservicecenter.application\\dtos\\vehicle\\vehicledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D75DE34-A95C-4C78-AB4B-1E59D9234C25}|VehicleServiceCenter.Application\\VehicleServiceCenter.Application.csproj|solutionrelative:vehicleservicecenter.application\\dtos\\vehicle\\vehicledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6521E5-A81D-44FA-A662-11EC8B47B3E6}|VehicleServiceCenter.API\\VehicleServiceCenter.API.csproj|c:\\users\\lanka ramya\\onedrive\\desktop\\vechileservicecentermanagementsystem\\vehicleservicecenter.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8D6521E5-A81D-44FA-A662-11EC8B47B3E6}|VehicleServiceCenter.API\\VehicleServiceCenter.API.csproj|solutionrelative:vehicleservicecenter.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44DDCACA-4E9E-4F6F-847F-3A0844753272}|VehicleServiceCenter.Infrastructure\\VehicleServiceCenter.Infrastructure.csproj|c:\\users\\lenovo\\onedrive\\desktop\\projecttt\\vehicleservicecenter.infrastructure\\security\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lanka Ramya\\OneDrive\\Desktop\\VechileServiceCenterManagementSystem\\VehicleServiceCenter.Infrastructure\\Migrations\\20250810063326_VehicleServiceCenterMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:VehicleServiceCenter.Infrastructure\\Migrations\\20250810063326_VehicleServiceCenterMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44DDCACA-4E9E-4F6F-847F-3A0844753272}|VehicleServiceCenter.Infrastructure\\VehicleServiceCenter.Infrastructure.csproj|c:\\users\\lanka ramya\\onedrive\\desktop\\vechileservicecentermanagementsystem\\vehicleservicecenter.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44DDCACA-4E9E-4F6F-847F-3A0844753272}|VehicleServiceCenter.Infrastructure\\VehicleServiceCenter.Infrastructure.csproj|solutionrelative:vehicleservicecenter.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6521E5-A81D-44FA-A662-11EC8B47B3E6}|VehicleServiceCenter.API\\VehicleServiceCenter.API.csproj|c:\\users\\lanka ramya\\onedrive\\desktop\\vechileservicecentermanagementsystem\\vehicleservicecenter.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6521E5-A81D-44FA-A662-11EC8B47B3E6}|VehicleServiceCenter.API\\VehicleServiceCenter.API.csproj|solutionrelative:vehicleservicecenter.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D75DE34-A95C-4C78-AB4B-1E59D9234C25}|VehicleServiceCenter.Application\\VehicleServiceCenter.Application.csproj|c:\\users\\lanka ramya\\onedrive\\desktop\\vechileservicecentermanagementsystem\\vehicleservicecenter.application\\dtos\\users\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D75DE34-A95C-4C78-AB4B-1E59D9234C25}|VehicleServiceCenter.Application\\VehicleServiceCenter.Application.csproj|solutionrelative:vehicleservicecenter.application\\dtos\\users\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D75DE34-A95C-4C78-AB4B-1E59D9234C25}|VehicleServiceCenter.Application\\VehicleServiceCenter.Application.csproj|c:\\users\\lanka ramya\\onedrive\\desktop\\vechileservicecentermanagementsystem\\vehicleservicecenter.application\\dtos\\users\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D75DE34-A95C-4C78-AB4B-1E59D9234C25}|VehicleServiceCenter.Application\\VehicleServiceCenter.Application.csproj|solutionrelative:vehicleservicecenter.application\\dtos\\users\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D75DE34-A95C-4C78-AB4B-1E59D9234C25}|VehicleServiceCenter.Application\\VehicleServiceCenter.Application.csproj|c:\\users\\lanka ramya\\onedrive\\desktop\\vechileservicecentermanagementsystem\\vehicleservicecenter.application\\dtos\\users\\updateuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D75DE34-A95C-4C78-AB4B-1E59D9234C25}|VehicleServiceCenter.Application\\VehicleServiceCenter.Application.csproj|solutionrelative:vehicleservicecenter.application\\dtos\\users\\updateuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D75DE34-A95C-4C78-AB4B-1E59D9234C25}|VehicleServiceCenter.Application\\VehicleServiceCenter.Application.csproj|c:\\users\\lanka ramya\\onedrive\\desktop\\vechileservicecentermanagementsystem\\vehicleservicecenter.application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D75DE34-A95C-4C78-AB4B-1E59D9234C25}|VehicleServiceCenter.Application\\VehicleServiceCenter.Application.csproj|solutionrelative:vehicleservicecenter.application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D75DE34-A95C-4C78-AB4B-1E59D9234C25}|VehicleServiceCenter.Application\\VehicleServiceCenter.Application.csproj|c:\\users\\lanka ramya\\onedrive\\desktop\\vechileservicecentermanagementsystem\\vehicleservicecenter.application\\dtos\\auth\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D75DE34-A95C-4C78-AB4B-1E59D9234C25}|VehicleServiceCenter.Application\\VehicleServiceCenter.Application.csproj|solutionrelative:vehicleservicecenter.application\\dtos\\auth\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D75DE34-A95C-4C78-AB4B-1E59D9234C25}|VehicleServiceCenter.Application\\VehicleServiceCenter.Application.csproj|c:\\users\\lanka ramya\\onedrive\\desktop\\vechileservicecentermanagementsystem\\vehicleservicecenter.application\\dtos\\auth\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D75DE34-A95C-4C78-AB4B-1E59D9234C25}|VehicleServiceCenter.Application\\VehicleServiceCenter.Application.csproj|solutionrelative:vehicleservicecenter.application\\dtos\\auth\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44DDCACA-4E9E-4F6F-847F-3A0844753272}|VehicleServiceCenter.Infrastructure\\VehicleServiceCenter.Infrastructure.csproj|c:\\users\\lanka ramya\\onedrive\\desktop\\vechileservicecentermanagementsystem\\vehicleservicecenter.infrastructure\\security\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{44DDCACA-4E9E-4F6F-847F-3A0844753272}|VehicleServiceCenter.Infrastructure\\VehicleServiceCenter.Infrastructure.csproj|solutionrelative:vehicleservicecenter.infrastructure\\security\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44DDCACA-4E9E-4F6F-847F-3A0844753272}|VehicleServiceCenter.Infrastructure\\VehicleServiceCenter.Infrastructure.csproj|c:\\users\\lenovo\\onedrive\\desktop\\projecttt\\vehicleservicecenter.infrastructure\\security\\jwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{44DDCACA-4E9E-4F6F-847F-3A0844753272}|VehicleServiceCenter.Infrastructure\\VehicleServiceCenter.Infrastructure.csproj|c:\\users\\lanka ramya\\onedrive\\desktop\\vechileservicecentermanagementsystem\\vehicleservicecenter.infrastructure\\security\\jwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{44DDCACA-4E9E-4F6F-847F-3A0844753272}|VehicleServiceCenter.Infrastructure\\VehicleServiceCenter.Infrastructure.csproj|solutionrelative:vehicleservicecenter.infrastructure\\security\\jwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44DDCACA-4E9E-4F6F-847F-3A0844753272}|VehicleServiceCenter.Infrastructure\\VehicleServiceCenter.Infrastructure.csproj|c:\\users\\lenovo\\onedrive\\desktop\\projecttt\\vehicleservicecenter.infrastructure\\repositories\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{44DDCACA-4E9E-4F6F-847F-3A0844753272}|VehicleServiceCenter.Infrastructure\\VehicleServiceCenter.Infrastructure.csproj|c:\\users\\lanka ramya\\onedrive\\desktop\\vechileservicecentermanagementsystem\\vehicleservicecenter.infrastructure\\repositories\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{44DDCACA-4E9E-4F6F-847F-3A0844753272}|VehicleServiceCenter.Infrastructure\\VehicleServiceCenter.Infrastructure.csproj|solutionrelative:vehicleservicecenter.infrastructure\\repositories\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D75DE34-A95C-4C78-AB4B-1E59D9234C25}|VehicleServiceCenter.Application\\VehicleServiceCenter.Application.csproj|c:\\users\\lenovo\\onedrive\\desktop\\projecttt\\vehicleservicecenter.application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7D75DE34-A95C-4C78-AB4B-1E59D9234C25}|VehicleServiceCenter.Application\\VehicleServiceCenter.Application.csproj|c:\\users\\lanka ramya\\onedrive\\desktop\\vechileservicecentermanagementsystem\\vehicleservicecenter.application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D75DE34-A95C-4C78-AB4B-1E59D9234C25}|VehicleServiceCenter.Application\\VehicleServiceCenter.Application.csproj|solutionrelative:vehicleservicecenter.application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D75DE34-A95C-4C78-AB4B-1E59D9234C25}|VehicleServiceCenter.Application\\VehicleServiceCenter.Application.csproj|c:\\users\\lenovo\\onedrive\\desktop\\projecttt\\vehicleservicecenter.application\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7D75DE34-A95C-4C78-AB4B-1E59D9234C25}|VehicleServiceCenter.Application\\VehicleServiceCenter.Application.csproj|c:\\users\\lanka ramya\\onedrive\\desktop\\vechileservicecentermanagementsystem\\vehicleservicecenter.application\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D75DE34-A95C-4C78-AB4B-1E59D9234C25}|VehicleServiceCenter.Application\\VehicleServiceCenter.Application.csproj|solutionrelative:vehicleservicecenter.application\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D75DE34-A95C-4C78-AB4B-1E59D9234C25}|VehicleServiceCenter.Application\\VehicleServiceCenter.Application.csproj|c:\\users\\lenovo\\onedrive\\desktop\\projecttt\\vehicleservicecenter.application\\dtos\\auth\\authresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7D75DE34-A95C-4C78-AB4B-1E59D9234C25}|VehicleServiceCenter.Application\\VehicleServiceCenter.Application.csproj|c:\\users\\lanka ramya\\onedrive\\desktop\\vechileservicecentermanagementsystem\\vehicleservicecenter.application\\dtos\\auth\\authresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D75DE34-A95C-4C78-AB4B-1E59D9234C25}|VehicleServiceCenter.Application\\VehicleServiceCenter.Application.csproj|solutionrelative:vehicleservicecenter.application\\dtos\\auth\\authresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A4C8DD58-01FB-4FCB-AFAD-086F8590CC65}|VehicleServiceCenter.Domain\\VehicleServiceCenter.Domain.csproj|c:\\users\\lenovo\\onedrive\\desktop\\projecttt\\vehicleservicecenter.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A4C8DD58-01FB-4FCB-AFAD-086F8590CC65}|VehicleServiceCenter.Domain\\VehicleServiceCenter.Domain.csproj|c:\\users\\lanka ramya\\onedrive\\desktop\\vechileservicecentermanagementsystem\\vehicleservicecenter.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A4C8DD58-01FB-4FCB-AFAD-086F8590CC65}|VehicleServiceCenter.Domain\\VehicleServiceCenter.Domain.csproj|solutionrelative:vehicleservicecenter.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A4C8DD58-01FB-4FCB-AFAD-086F8590CC65}|VehicleServiceCenter.Domain\\VehicleServiceCenter.Domain.csproj|c:\\users\\lenovo\\onedrive\\desktop\\projecttt\\vehicleservicecenter.domain\\entities\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A4C8DD58-01FB-4FCB-AFAD-086F8590CC65}|VehicleServiceCenter.Domain\\VehicleServiceCenter.Domain.csproj|c:\\users\\lanka ramya\\onedrive\\desktop\\vechileservicecentermanagementsystem\\vehicleservicecenter.domain\\entities\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A4C8DD58-01FB-4FCB-AFAD-086F8590CC65}|VehicleServiceCenter.Domain\\VehicleServiceCenter.Domain.csproj|solutionrelative:vehicleservicecenter.domain\\entities\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A4C8DD58-01FB-4FCB-AFAD-086F8590CC65}|VehicleServiceCenter.Domain\\VehicleServiceCenter.Domain.csproj|c:\\users\\lenovo\\onedrive\\desktop\\projecttt\\vehicleservicecenter.domain\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A4C8DD58-01FB-4FCB-AFAD-086F8590CC65}|VehicleServiceCenter.Domain\\VehicleServiceCenter.Domain.csproj|c:\\users\\lanka ramya\\onedrive\\desktop\\vechileservicecentermanagementsystem\\vehicleservicecenter.domain\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A4C8DD58-01FB-4FCB-AFAD-086F8590CC65}|VehicleServiceCenter.Domain\\VehicleServiceCenter.Domain.csproj|solutionrelative:vehicleservicecenter.domain\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A4C8DD58-01FB-4FCB-AFAD-086F8590CC65}|VehicleServiceCenter.Domain\\VehicleServiceCenter.Domain.csproj|c:\\users\\lenovo\\onedrive\\desktop\\projecttt\\vehicleservicecenter.domain\\entities\\servicerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A4C8DD58-01FB-4FCB-AFAD-086F8590CC65}|VehicleServiceCenter.Domain\\VehicleServiceCenter.Domain.csproj|c:\\users\\lanka ramya\\onedrive\\desktop\\vechileservicecentermanagementsystem\\vehicleservicecenter.domain\\entities\\servicerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A4C8DD58-01FB-4FCB-AFAD-086F8590CC65}|VehicleServiceCenter.Domain\\VehicleServiceCenter.Domain.csproj|solutionrelative:vehicleservicecenter.domain\\entities\\servicerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44DDCACA-4E9E-4F6F-847F-3A0844753272}|VehicleServiceCenter.Infrastructure\\VehicleServiceCenter.Infrastructure.csproj|c:\\users\\lenovo\\onedrive\\desktop\\projecttt\\vehicleservicecenter.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{44DDCACA-4E9E-4F6F-847F-3A0844753272}|VehicleServiceCenter.Infrastructure\\VehicleServiceCenter.Infrastructure.csproj|c:\\users\\lanka ramya\\onedrive\\desktop\\vechileservicecentermanagementsystem\\vehicleservicecenter.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{44DDCACA-4E9E-4F6F-847F-3A0844753272}|VehicleServiceCenter.Infrastructure\\VehicleServiceCenter.Infrastructure.csproj|solutionrelative:vehicleservicecenter.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A4C8DD58-01FB-4FCB-AFAD-086F8590CC65}|VehicleServiceCenter.Domain\\VehicleServiceCenter.Domain.csproj|c:\\users\\lenovo\\onedrive\\desktop\\projecttt\\vehicleservicecenter.domain\\vehicleservicecenter.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{A4C8DD58-01FB-4FCB-AFAD-086F8590CC65}|VehicleServiceCenter.Domain\\VehicleServiceCenter.Domain.csproj|c:\\users\\lanka ramya\\onedrive\\desktop\\vechileservicecentermanagementsystem\\vehicleservicecenter.domain\\vehicleservicecenter.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{A4C8DD58-01FB-4FCB-AFAD-086F8590CC65}|VehicleServiceCenter.Domain\\VehicleServiceCenter.Domain.csproj|solutionrelative:vehicleservicecenter.domain\\vehicleservicecenter.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A4C8DD58-01FB-4FCB-AFAD-086F8590CC65}|VehicleServiceCenter.Domain\\VehicleServiceCenter.Domain.csproj|c:\\users\\lenovo\\onedrive\\desktop\\projecttt\\vehicleservicecenter.domain\\enums\\usertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A4C8DD58-01FB-4FCB-AFAD-086F8590CC65}|VehicleServiceCenter.Domain\\VehicleServiceCenter.Domain.csproj|c:\\users\\lanka ramya\\onedrive\\desktop\\vechileservicecentermanagementsystem\\vehicleservicecenter.domain\\enums\\usertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A4C8DD58-01FB-4FCB-AFAD-086F8590CC65}|VehicleServiceCenter.Domain\\VehicleServiceCenter.Domain.csproj|solutionrelative:vehicleservicecenter.domain\\enums\\usertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A4C8DD58-01FB-4FCB-AFAD-086F8590CC65}|VehicleServiceCenter.Domain\\VehicleServiceCenter.Domain.csproj|c:\\users\\lenovo\\onedrive\\desktop\\projecttt\\vehicleservicecenter.domain\\enums\\servicestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A4C8DD58-01FB-4FCB-AFAD-086F8590CC65}|VehicleServiceCenter.Domain\\VehicleServiceCenter.Domain.csproj|c:\\users\\lanka ramya\\onedrive\\desktop\\vechileservicecentermanagementsystem\\vehicleservicecenter.domain\\enums\\servicestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A4C8DD58-01FB-4FCB-AFAD-086F8590CC65}|VehicleServiceCenter.Domain\\VehicleServiceCenter.Domain.csproj|solutionrelative:vehicleservicecenter.domain\\enums\\servicestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A4C8DD58-01FB-4FCB-AFAD-086F8590CC65}|VehicleServiceCenter.Domain\\VehicleServiceCenter.Domain.csproj|c:\\users\\lenovo\\onedrive\\desktop\\projecttt\\vehicleservicecenter.domain\\entities\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A4C8DD58-01FB-4FCB-AFAD-086F8590CC65}|VehicleServiceCenter.Domain\\VehicleServiceCenter.Domain.csproj|c:\\users\\lanka ramya\\onedrive\\desktop\\vechileservicecentermanagementsystem\\vehicleservicecenter.domain\\entities\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A4C8DD58-01FB-4FCB-AFAD-086F8590CC65}|VehicleServiceCenter.Domain\\VehicleServiceCenter.Domain.csproj|solutionrelative:vehicleservicecenter.domain\\entities\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44DDCACA-4E9E-4F6F-847F-3A0844753272}|VehicleServiceCenter.Infrastructure\\VehicleServiceCenter.Infrastructure.csproj|c:\\users\\lenovo\\onedrive\\desktop\\projecttt\\vehicleservicecenter.infrastructure\\migrations\\20250809171409_vehicleservicecentermigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44DDCACA-4E9E-4F6F-847F-3A0844753272}|VehicleServiceCenter.Infrastructure\\VehicleServiceCenter.Infrastructure.csproj|solutionrelative:vehicleservicecenter.infrastructure\\migrations\\20250809171409_vehicleservicecentermigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -126,15 +150,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 13,
+          "SelectedChildIndex": 14,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
             },
             {
               "$type": "Bookmark",
@@ -158,35 +182,167 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "20250809171409_VehicleServiceCenterMigration.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\projecttt\\VehicleServiceCenter.Infrastructure\\Migrations\\20250809171409_VehicleServiceCenterMigration.cs",
-              "RelativeDocumentMoniker": "VehicleServiceCenter.Infrastructure\\Migrations\\20250809171409_VehicleServiceCenterMigration.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\projecttt\\VehicleServiceCenter.Infrastructure\\Migrations\\20250809171409_VehicleServiceCenterMigration.cs",
-              "RelativeToolTip": "VehicleServiceCenter.Infrastructure\\Migrations\\20250809171409_VehicleServiceCenterMigration.cs",
-              "ViewState": "AgIAAJQAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "IVehicleService.cs",
+              "DocumentMoniker": "C:\\Users\\Lanka Ramya\\OneDrive\\Desktop\\VechileServiceCenterManagementSystem\\VehicleServiceCenter.Application\\Interfaces\\IVehicleService.cs",
+              "RelativeDocumentMoniker": "VehicleServiceCenter.Application\\Interfaces\\IVehicleService.cs",
+              "ToolTip": "C:\\Users\\Lanka Ramya\\OneDrive\\Desktop\\VechileServiceCenterManagementSystem\\VehicleServiceCenter.Application\\Interfaces\\IVehicleService.cs",
+              "RelativeToolTip": "VehicleServiceCenter.Application\\Interfaces\\IVehicleService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAwBIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-09T17:14:10.298Z"
+              "WhenOpened": "2025-08-10T06:56:18.515Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IUserService.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\projecttt\\VehicleServiceCenter.Application\\Interfaces\\IUserService.cs",
-              "RelativeDocumentMoniker": "VehicleServiceCenter.Application\\Interfaces\\IUserService.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\projecttt\\VehicleServiceCenter.Application\\Interfaces\\IUserService.cs",
-              "RelativeToolTip": "VehicleServiceCenter.Application\\Interfaces\\IUserService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "VehicleDto.cs",
+              "DocumentMoniker": "C:\\Users\\Lanka Ramya\\OneDrive\\Desktop\\VechileServiceCenterManagementSystem\\VehicleServiceCenter.Application\\DTOs\\Vehicle\\VehicleDto.cs",
+              "RelativeDocumentMoniker": "VehicleServiceCenter.Application\\DTOs\\Vehicle\\VehicleDto.cs",
+              "ToolTip": "C:\\Users\\Lanka Ramya\\OneDrive\\Desktop\\VechileServiceCenterManagementSystem\\VehicleServiceCenter.Application\\DTOs\\Vehicle\\VehicleDto.cs",
+              "RelativeToolTip": "VehicleServiceCenter.Application\\DTOs\\Vehicle\\VehicleDto.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-09T16:44:24.109Z"
+              "WhenOpened": "2025-08-10T06:52:27.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VehicleController.cs",
+              "DocumentMoniker": "C:\\Users\\Lanka Ramya\\OneDrive\\Desktop\\VechileServiceCenterManagementSystem\\VehicleServiceCenter.API\\Controllers\\VehicleController.cs",
+              "RelativeDocumentMoniker": "VehicleServiceCenter.API\\Controllers\\VehicleController.cs",
+              "ToolTip": "C:\\Users\\Lanka Ramya\\OneDrive\\Desktop\\VechileServiceCenterManagementSystem\\VehicleServiceCenter.API\\Controllers\\VehicleController.cs",
+              "RelativeToolTip": "VehicleServiceCenter.API\\Controllers\\VehicleController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T06:42:39.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20250810063326_VehicleServiceCenterMigration.cs",
+              "DocumentMoniker": "C:\\Users\\Lanka Ramya\\OneDrive\\Desktop\\VechileServiceCenterManagementSystem\\VehicleServiceCenter.Infrastructure\\Migrations\\20250810063326_VehicleServiceCenterMigration.cs",
+              "RelativeDocumentMoniker": "VehicleServiceCenter.Infrastructure\\Migrations\\20250810063326_VehicleServiceCenterMigration.cs",
+              "ToolTip": "C:\\Users\\Lanka Ramya\\OneDrive\\Desktop\\VechileServiceCenterManagementSystem\\VehicleServiceCenter.Infrastructure\\Migrations\\20250810063326_VehicleServiceCenterMigration.cs",
+              "RelativeToolTip": "VehicleServiceCenter.Infrastructure\\Migrations\\20250810063326_VehicleServiceCenterMigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T06:33:26.264Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Lanka Ramya\\OneDrive\\Desktop\\VechileServiceCenterManagementSystem\\VehicleServiceCenter.API\\appsettings.json",
+              "RelativeDocumentMoniker": "VehicleServiceCenter.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Lanka Ramya\\OneDrive\\Desktop\\VechileServiceCenterManagementSystem\\VehicleServiceCenter.API\\appsettings.json",
+              "RelativeToolTip": "VehicleServiceCenter.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-08T13:37:42.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VehicleService.cs",
+              "DocumentMoniker": "C:\\Users\\Lanka Ramya\\OneDrive\\Desktop\\VechileServiceCenterManagementSystem\\VehicleServiceCenter.Application\\Services\\VehicleService.cs",
+              "RelativeDocumentMoniker": "VehicleServiceCenter.Application\\Services\\VehicleService.cs",
+              "ToolTip": "C:\\Users\\Lanka Ramya\\OneDrive\\Desktop\\VechileServiceCenterManagementSystem\\VehicleServiceCenter.Application\\Services\\VehicleService.cs",
+              "RelativeToolTip": "VehicleServiceCenter.Application\\Services\\VehicleService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T06:59:13.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\Lanka Ramya\\OneDrive\\Desktop\\VechileServiceCenterManagementSystem\\VehicleServiceCenter.Application\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "VehicleServiceCenter.Application\\Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Users\\Lanka Ramya\\OneDrive\\Desktop\\VechileServiceCenterManagementSystem\\VehicleServiceCenter.Application\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "VehicleServiceCenter.Application\\Interfaces\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T16:44:24.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VehicleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lanka Ramya\\OneDrive\\Desktop\\VechileServiceCenterManagementSystem\\VehicleServiceCenter.Infrastructure\\Repositories\\VehicleRepository.cs",
+              "RelativeDocumentMoniker": "VehicleServiceCenter.Infrastructure\\Repositories\\VehicleRepository.cs",
+              "ToolTip": "C:\\Users\\Lanka Ramya\\OneDrive\\Desktop\\VechileServiceCenterManagementSystem\\VehicleServiceCenter.Infrastructure\\Repositories\\VehicleRepository.cs",
+              "RelativeToolTip": "VehicleServiceCenter.Infrastructure\\Repositories\\VehicleRepository.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T07:02:26.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lanka Ramya\\OneDrive\\Desktop\\VechileServiceCenterManagementSystem\\VehicleServiceCenter.API\\Program.cs",
+              "RelativeDocumentMoniker": "VehicleServiceCenter.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Lanka Ramya\\OneDrive\\Desktop\\VechileServiceCenterManagementSystem\\VehicleServiceCenter.API\\Program.cs",
+              "RelativeToolTip": "VehicleServiceCenter.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T13:37:37.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreateVehicleDto.cs",
+              "DocumentMoniker": "C:\\Users\\Lanka Ramya\\OneDrive\\Desktop\\VechileServiceCenterManagementSystem\\VehicleServiceCenter.Application\\DTOs\\Vehicle\\CreateVehicleDto.cs",
+              "RelativeDocumentMoniker": "VehicleServiceCenter.Application\\DTOs\\Vehicle\\CreateVehicleDto.cs",
+              "ToolTip": "C:\\Users\\Lanka Ramya\\OneDrive\\Desktop\\VechileServiceCenterManagementSystem\\VehicleServiceCenter.Application\\DTOs\\Vehicle\\CreateVehicleDto.cs",
+              "RelativeToolTip": "VehicleServiceCenter.Application\\DTOs\\Vehicle\\CreateVehicleDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T06:53:46.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UpdateVehicleDto.cs",
+              "DocumentMoniker": "C:\\Users\\Lanka Ramya\\OneDrive\\Desktop\\VechileServiceCenterManagementSystem\\VehicleServiceCenter.Application\\DTOs\\Vehicle\\UpdateVehicleDto.cs",
+              "RelativeDocumentMoniker": "VehicleServiceCenter.Application\\DTOs\\Vehicle\\UpdateVehicleDto.cs",
+              "ToolTip": "C:\\Users\\Lanka Ramya\\OneDrive\\Desktop\\VechileServiceCenterManagementSystem\\VehicleServiceCenter.Application\\DTOs\\Vehicle\\UpdateVehicleDto.cs",
+              "RelativeToolTip": "VehicleServiceCenter.Application\\DTOs\\Vehicle\\UpdateVehicleDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T06:54:46.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Lanka Ramya\\OneDrive\\Desktop\\VechileServiceCenterManagementSystem\\VehicleServiceCenter.API\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "VehicleServiceCenter.API\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Lanka Ramya\\OneDrive\\Desktop\\VechileServiceCenterManagementSystem\\VehicleServiceCenter.API\\Controllers\\UserController.cs",
+              "RelativeToolTip": "VehicleServiceCenter.API\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T16:30:42.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "UpdateUserDto.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\projecttt\\VehicleServiceCenter.Application\\DTOs\\Users\\UpdateUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\Lanka Ramya\\OneDrive\\Desktop\\VechileServiceCenterManagementSystem\\VehicleServiceCenter.Application\\DTOs\\Users\\UpdateUserDto.cs",
               "RelativeDocumentMoniker": "VehicleServiceCenter.Application\\DTOs\\Users\\UpdateUserDto.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\projecttt\\VehicleServiceCenter.Application\\DTOs\\Users\\UpdateUserDto.cs",
+              "ToolTip": "C:\\Users\\Lanka Ramya\\OneDrive\\Desktop\\VechileServiceCenterManagementSystem\\VehicleServiceCenter.Application\\DTOs\\Users\\UpdateUserDto.cs",
               "RelativeToolTip": "VehicleServiceCenter.Application\\DTOs\\Users\\UpdateUserDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -194,11 +350,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 15,
               "Title": "CreateUserDto.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\projecttt\\VehicleServiceCenter.Application\\DTOs\\Users\\CreateUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\Lanka Ramya\\OneDrive\\Desktop\\VechileServiceCenterManagementSystem\\VehicleServiceCenter.Application\\DTOs\\Users\\CreateUserDto.cs",
               "RelativeDocumentMoniker": "VehicleServiceCenter.Application\\DTOs\\Users\\CreateUserDto.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\projecttt\\VehicleServiceCenter.Application\\DTOs\\Users\\CreateUserDto.cs",
+              "ToolTip": "C:\\Users\\Lanka Ramya\\OneDrive\\Desktop\\VechileServiceCenterManagementSystem\\VehicleServiceCenter.Application\\DTOs\\Users\\CreateUserDto.cs",
               "RelativeToolTip": "VehicleServiceCenter.Application\\DTOs\\Users\\CreateUserDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -206,11 +362,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 14,
               "Title": "UserDto.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\projecttt\\VehicleServiceCenter.Application\\DTOs\\Users\\UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\Lanka Ramya\\OneDrive\\Desktop\\VechileServiceCenterManagementSystem\\VehicleServiceCenter.Application\\DTOs\\Users\\UserDto.cs",
               "RelativeDocumentMoniker": "VehicleServiceCenter.Application\\DTOs\\Users\\UserDto.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\projecttt\\VehicleServiceCenter.Application\\DTOs\\Users\\UserDto.cs",
+              "ToolTip": "C:\\Users\\Lanka Ramya\\OneDrive\\Desktop\\VechileServiceCenterManagementSystem\\VehicleServiceCenter.Application\\DTOs\\Users\\UserDto.cs",
               "RelativeToolTip": "VehicleServiceCenter.Application\\DTOs\\Users\\UserDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -218,11 +374,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 13,
               "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\projecttt\\VehicleServiceCenter.API\\Controllers\\AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Lanka Ramya\\OneDrive\\Desktop\\VechileServiceCenterManagementSystem\\VehicleServiceCenter.API\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "VehicleServiceCenter.API\\Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\projecttt\\VehicleServiceCenter.API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Lanka Ramya\\OneDrive\\Desktop\\VechileServiceCenterManagementSystem\\VehicleServiceCenter.API\\Controllers\\AuthController.cs",
               "RelativeToolTip": "VehicleServiceCenter.API\\Controllers\\AuthController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -230,49 +386,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\projecttt\\VehicleServiceCenter.API\\Program.cs",
-              "RelativeDocumentMoniker": "VehicleServiceCenter.API\\Program.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\projecttt\\VehicleServiceCenter.API\\Program.cs",
-              "RelativeToolTip": "VehicleServiceCenter.API\\Program.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAAGQAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-08T13:37:37.106Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\projecttt\\VehicleServiceCenter.API\\appsettings.json",
-              "RelativeDocumentMoniker": "VehicleServiceCenter.API\\appsettings.json",
-              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\projecttt\\VehicleServiceCenter.API\\appsettings.json",
-              "RelativeToolTip": "VehicleServiceCenter.API\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAACSAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-08T13:37:42.748Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 12,
               "Title": "UserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\projecttt\\VehicleServiceCenter.Infrastructure\\Repositories\\UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lanka Ramya\\OneDrive\\Desktop\\VechileServiceCenterManagementSystem\\VehicleServiceCenter.Infrastructure\\Repositories\\UserRepository.cs",
               "RelativeDocumentMoniker": "VehicleServiceCenter.Infrastructure\\Repositories\\UserRepository.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\projecttt\\VehicleServiceCenter.Infrastructure\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\Lanka Ramya\\OneDrive\\Desktop\\VechileServiceCenterManagementSystem\\VehicleServiceCenter.Infrastructure\\Repositories\\UserRepository.cs",
               "RelativeToolTip": "VehicleServiceCenter.Infrastructure\\Repositories\\UserRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-09T16:48:20.183Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-09T16:48:20.183Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 17,
               "Title": "UserService.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\projecttt\\VehicleServiceCenter.Application\\Services\\UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Lanka Ramya\\OneDrive\\Desktop\\VechileServiceCenterManagementSystem\\VehicleServiceCenter.Application\\Services\\UserService.cs",
               "RelativeDocumentMoniker": "VehicleServiceCenter.Application\\Services\\UserService.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\projecttt\\VehicleServiceCenter.Application\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\Lanka Ramya\\OneDrive\\Desktop\\VechileServiceCenterManagementSystem\\VehicleServiceCenter.Application\\Services\\UserService.cs",
               "RelativeToolTip": "VehicleServiceCenter.Application\\Services\\UserService.cs",
               "ViewState": "AgIAAEEAAAAAAAAAAAAIwFEAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -280,35 +410,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "VehicleServiceCenter.Application.csproj",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\projecttt\\VehicleServiceCenter.Application\\VehicleServiceCenter.Application.csproj",
-              "RelativeDocumentMoniker": "VehicleServiceCenter.Application\\VehicleServiceCenter.Application.csproj",
-              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\projecttt\\VehicleServiceCenter.Application\\VehicleServiceCenter.Application.csproj",
-              "RelativeToolTip": "VehicleServiceCenter.Application\\VehicleServiceCenter.Application.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-08-09T16:36:49.984Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\projecttt\\VehicleServiceCenter.API\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "VehicleServiceCenter.API\\Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\projecttt\\VehicleServiceCenter.API\\Controllers\\UserController.cs",
-              "RelativeToolTip": "VehicleServiceCenter.API\\Controllers\\UserController.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAIwDoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-09T16:30:42.92Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 24,
               "Title": "IAuthService.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\projecttt\\VehicleServiceCenter.Application\\Interfaces\\IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Lanka Ramya\\OneDrive\\Desktop\\VechileServiceCenterManagementSystem\\VehicleServiceCenter.Application\\Interfaces\\IAuthService.cs",
               "RelativeDocumentMoniker": "VehicleServiceCenter.Application\\Interfaces\\IAuthService.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\projecttt\\VehicleServiceCenter.Application\\Interfaces\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\Lanka Ramya\\OneDrive\\Desktop\\VechileServiceCenterManagementSystem\\VehicleServiceCenter.Application\\Interfaces\\IAuthService.cs",
               "RelativeToolTip": "VehicleServiceCenter.Application\\Interfaces\\IAuthService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -316,11 +422,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 20,
               "Title": "PasswordHasher.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\projecttt\\VehicleServiceCenter.Infrastructure\\Security\\PasswordHasher.cs",
+              "DocumentMoniker": "C:\\Users\\Lanka Ramya\\OneDrive\\Desktop\\VechileServiceCenterManagementSystem\\VehicleServiceCenter.Infrastructure\\Security\\PasswordHasher.cs",
               "RelativeDocumentMoniker": "VehicleServiceCenter.Infrastructure\\Security\\PasswordHasher.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\projecttt\\VehicleServiceCenter.Infrastructure\\Security\\PasswordHasher.cs",
+              "ToolTip": "C:\\Users\\Lanka Ramya\\OneDrive\\Desktop\\VechileServiceCenterManagementSystem\\VehicleServiceCenter.Infrastructure\\Security\\PasswordHasher.cs",
               "RelativeToolTip": "VehicleServiceCenter.Infrastructure\\Security\\PasswordHasher.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -328,11 +434,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 19,
               "Title": "LoginDto.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\projecttt\\VehicleServiceCenter.Application\\DTOs\\Auth\\LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\Lanka Ramya\\OneDrive\\Desktop\\VechileServiceCenterManagementSystem\\VehicleServiceCenter.Application\\DTOs\\Auth\\LoginDto.cs",
               "RelativeDocumentMoniker": "VehicleServiceCenter.Application\\DTOs\\Auth\\LoginDto.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\projecttt\\VehicleServiceCenter.Application\\DTOs\\Auth\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\Lanka Ramya\\OneDrive\\Desktop\\VechileServiceCenterManagementSystem\\VehicleServiceCenter.Application\\DTOs\\Auth\\LoginDto.cs",
               "RelativeToolTip": "VehicleServiceCenter.Application\\DTOs\\Auth\\LoginDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -340,11 +446,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 18,
               "Title": "RegisterDto.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\projecttt\\VehicleServiceCenter.Application\\DTOs\\Auth\\RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\Lanka Ramya\\OneDrive\\Desktop\\VechileServiceCenterManagementSystem\\VehicleServiceCenter.Application\\DTOs\\Auth\\RegisterDto.cs",
               "RelativeDocumentMoniker": "VehicleServiceCenter.Application\\DTOs\\Auth\\RegisterDto.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\projecttt\\VehicleServiceCenter.Application\\DTOs\\Auth\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\Lanka Ramya\\OneDrive\\Desktop\\VechileServiceCenterManagementSystem\\VehicleServiceCenter.Application\\DTOs\\Auth\\RegisterDto.cs",
               "RelativeToolTip": "VehicleServiceCenter.Application\\DTOs\\Auth\\RegisterDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -352,11 +458,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 23,
               "Title": "AuthService.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\projecttt\\VehicleServiceCenter.Application\\Services\\AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Lanka Ramya\\OneDrive\\Desktop\\VechileServiceCenterManagementSystem\\VehicleServiceCenter.Application\\Services\\AuthService.cs",
               "RelativeDocumentMoniker": "VehicleServiceCenter.Application\\Services\\AuthService.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\projecttt\\VehicleServiceCenter.Application\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\Lanka Ramya\\OneDrive\\Desktop\\VechileServiceCenterManagementSystem\\VehicleServiceCenter.Application\\Services\\AuthService.cs",
               "RelativeToolTip": "VehicleServiceCenter.Application\\Services\\AuthService.cs",
               "ViewState": "AgIAACwAAAAAAAAAAAAAADwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -364,11 +470,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 21,
               "Title": "JwtTokenGenerator.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\projecttt\\VehicleServiceCenter.Infrastructure\\Security\\JwtTokenGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\Lanka Ramya\\OneDrive\\Desktop\\VechileServiceCenterManagementSystem\\VehicleServiceCenter.Infrastructure\\Security\\JwtTokenGenerator.cs",
               "RelativeDocumentMoniker": "VehicleServiceCenter.Infrastructure\\Security\\JwtTokenGenerator.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\projecttt\\VehicleServiceCenter.Infrastructure\\Security\\JwtTokenGenerator.cs",
+              "ToolTip": "C:\\Users\\Lanka Ramya\\OneDrive\\Desktop\\VechileServiceCenterManagementSystem\\VehicleServiceCenter.Infrastructure\\Security\\JwtTokenGenerator.cs",
               "RelativeToolTip": "VehicleServiceCenter.Infrastructure\\Security\\JwtTokenGenerator.cs",
               "ViewState": "AgIAABcAAAAAAAAAAAAAAC4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -376,11 +482,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 25,
               "Title": "AuthResponseDto.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\projecttt\\VehicleServiceCenter.Application\\DTOs\\Auth\\AuthResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\Lanka Ramya\\OneDrive\\Desktop\\VechileServiceCenterManagementSystem\\VehicleServiceCenter.Application\\DTOs\\Auth\\AuthResponseDto.cs",
               "RelativeDocumentMoniker": "VehicleServiceCenter.Application\\DTOs\\Auth\\AuthResponseDto.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\projecttt\\VehicleServiceCenter.Application\\DTOs\\Auth\\AuthResponseDto.cs",
+              "ToolTip": "C:\\Users\\Lanka Ramya\\OneDrive\\Desktop\\VechileServiceCenterManagementSystem\\VehicleServiceCenter.Application\\DTOs\\Auth\\AuthResponseDto.cs",
               "RelativeToolTip": "VehicleServiceCenter.Application\\DTOs\\Auth\\AuthResponseDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -388,23 +494,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 31,
               "Title": "VehicleServiceCenter.Domain.csproj",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\projecttt\\VehicleServiceCenter.Domain\\VehicleServiceCenter.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\Lanka Ramya\\OneDrive\\Desktop\\VechileServiceCenterManagementSystem\\VehicleServiceCenter.Domain\\VehicleServiceCenter.Domain.csproj",
               "RelativeDocumentMoniker": "VehicleServiceCenter.Domain\\VehicleServiceCenter.Domain.csproj",
-              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\projecttt\\VehicleServiceCenter.Domain\\VehicleServiceCenter.Domain.csproj",
+              "ToolTip": "C:\\Users\\Lanka Ramya\\OneDrive\\Desktop\\VechileServiceCenterManagementSystem\\VehicleServiceCenter.Domain\\VehicleServiceCenter.Domain.csproj",
               "RelativeToolTip": "VehicleServiceCenter.Domain\\VehicleServiceCenter.Domain.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-08-09T04:40:12.36Z"
+              "WhenOpened": "2025-08-09T04:40:12.36Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 22,
               "Title": "AuthRepository.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\projecttt\\VehicleServiceCenter.Infrastructure\\Repositories\\AuthRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lanka Ramya\\OneDrive\\Desktop\\VechileServiceCenterManagementSystem\\VehicleServiceCenter.Infrastructure\\Repositories\\AuthRepository.cs",
               "RelativeDocumentMoniker": "VehicleServiceCenter.Infrastructure\\Repositories\\AuthRepository.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\projecttt\\VehicleServiceCenter.Infrastructure\\Repositories\\AuthRepository.cs",
+              "ToolTip": "C:\\Users\\Lanka Ramya\\OneDrive\\Desktop\\VechileServiceCenterManagementSystem\\VehicleServiceCenter.Infrastructure\\Repositories\\AuthRepository.cs",
               "RelativeToolTip": "VehicleServiceCenter.Infrastructure\\Repositories\\AuthRepository.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAuwBwAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -412,11 +519,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 30,
               "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\projecttt\\VehicleServiceCenter.Infrastructure\\Data\\AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Lanka Ramya\\OneDrive\\Desktop\\VechileServiceCenterManagementSystem\\VehicleServiceCenter.Infrastructure\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "VehicleServiceCenter.Infrastructure\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\projecttt\\VehicleServiceCenter.Infrastructure\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Lanka Ramya\\OneDrive\\Desktop\\VechileServiceCenterManagementSystem\\VehicleServiceCenter.Infrastructure\\Data\\AppDbContext.cs",
               "RelativeToolTip": "VehicleServiceCenter.Infrastructure\\Data\\AppDbContext.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAwwAgAAABXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -424,11 +531,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 32,
               "Title": "UserType.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\projecttt\\VehicleServiceCenter.Domain\\Enums\\UserType.cs",
+              "DocumentMoniker": "C:\\Users\\Lanka Ramya\\OneDrive\\Desktop\\VechileServiceCenterManagementSystem\\VehicleServiceCenter.Domain\\Enums\\UserType.cs",
               "RelativeDocumentMoniker": "VehicleServiceCenter.Domain\\Enums\\UserType.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\projecttt\\VehicleServiceCenter.Domain\\Enums\\UserType.cs",
+              "ToolTip": "C:\\Users\\Lanka Ramya\\OneDrive\\Desktop\\VechileServiceCenterManagementSystem\\VehicleServiceCenter.Domain\\Enums\\UserType.cs",
               "RelativeToolTip": "VehicleServiceCenter.Domain\\Enums\\UserType.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -436,11 +543,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 33,
               "Title": "ServiceStatus.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\projecttt\\VehicleServiceCenter.Domain\\Enums\\ServiceStatus.cs",
+              "DocumentMoniker": "C:\\Users\\Lanka Ramya\\OneDrive\\Desktop\\VechileServiceCenterManagementSystem\\VehicleServiceCenter.Domain\\Enums\\ServiceStatus.cs",
               "RelativeDocumentMoniker": "VehicleServiceCenter.Domain\\Enums\\ServiceStatus.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\projecttt\\VehicleServiceCenter.Domain\\Enums\\ServiceStatus.cs",
+              "ToolTip": "C:\\Users\\Lanka Ramya\\OneDrive\\Desktop\\VechileServiceCenterManagementSystem\\VehicleServiceCenter.Domain\\Enums\\ServiceStatus.cs",
               "RelativeToolTip": "VehicleServiceCenter.Domain\\Enums\\ServiceStatus.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -448,11 +555,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 29,
               "Title": "ServiceRequest.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\projecttt\\VehicleServiceCenter.Domain\\Entities\\ServiceRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Lanka Ramya\\OneDrive\\Desktop\\VechileServiceCenterManagementSystem\\VehicleServiceCenter.Domain\\Entities\\ServiceRequest.cs",
               "RelativeDocumentMoniker": "VehicleServiceCenter.Domain\\Entities\\ServiceRequest.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\projecttt\\VehicleServiceCenter.Domain\\Entities\\ServiceRequest.cs",
+              "ToolTip": "C:\\Users\\Lanka Ramya\\OneDrive\\Desktop\\VechileServiceCenterManagementSystem\\VehicleServiceCenter.Domain\\Entities\\ServiceRequest.cs",
               "RelativeToolTip": "VehicleServiceCenter.Domain\\Entities\\ServiceRequest.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAYwBoAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -460,11 +567,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 28,
               "Title": "Role.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\projecttt\\VehicleServiceCenter.Domain\\Entities\\Role.cs",
+              "DocumentMoniker": "C:\\Users\\Lanka Ramya\\OneDrive\\Desktop\\VechileServiceCenterManagementSystem\\VehicleServiceCenter.Domain\\Entities\\Role.cs",
               "RelativeDocumentMoniker": "VehicleServiceCenter.Domain\\Entities\\Role.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\projecttt\\VehicleServiceCenter.Domain\\Entities\\Role.cs",
+              "ToolTip": "C:\\Users\\Lanka Ramya\\OneDrive\\Desktop\\VechileServiceCenterManagementSystem\\VehicleServiceCenter.Domain\\Entities\\Role.cs",
               "RelativeToolTip": "VehicleServiceCenter.Domain\\Entities\\Role.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -472,11 +579,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 27,
               "Title": "UserRole.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\projecttt\\VehicleServiceCenter.Domain\\Entities\\UserRole.cs",
+              "DocumentMoniker": "C:\\Users\\Lanka Ramya\\OneDrive\\Desktop\\VechileServiceCenterManagementSystem\\VehicleServiceCenter.Domain\\Entities\\UserRole.cs",
               "RelativeDocumentMoniker": "VehicleServiceCenter.Domain\\Entities\\UserRole.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\projecttt\\VehicleServiceCenter.Domain\\Entities\\UserRole.cs",
+              "ToolTip": "C:\\Users\\Lanka Ramya\\OneDrive\\Desktop\\VechileServiceCenterManagementSystem\\VehicleServiceCenter.Domain\\Entities\\UserRole.cs",
               "RelativeToolTip": "VehicleServiceCenter.Domain\\Entities\\UserRole.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -484,11 +591,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 26,
               "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\projecttt\\VehicleServiceCenter.Domain\\Entities\\User.cs",
+              "DocumentMoniker": "C:\\Users\\Lanka Ramya\\OneDrive\\Desktop\\VechileServiceCenterManagementSystem\\VehicleServiceCenter.Domain\\Entities\\User.cs",
               "RelativeDocumentMoniker": "VehicleServiceCenter.Domain\\Entities\\User.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\projecttt\\VehicleServiceCenter.Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\Lanka Ramya\\OneDrive\\Desktop\\VechileServiceCenterManagementSystem\\VehicleServiceCenter.Domain\\Entities\\User.cs",
               "RelativeToolTip": "VehicleServiceCenter.Domain\\Entities\\User.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAAwBIAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -496,11 +603,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 34,
               "Title": "Vehicle.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\projecttt\\VehicleServiceCenter.Domain\\Entities\\Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\Lanka Ramya\\OneDrive\\Desktop\\VechileServiceCenterManagementSystem\\VehicleServiceCenter.Domain\\Entities\\Vehicle.cs",
               "RelativeDocumentMoniker": "VehicleServiceCenter.Domain\\Entities\\Vehicle.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\projecttt\\VehicleServiceCenter.Domain\\Entities\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\Lanka Ramya\\OneDrive\\Desktop\\VechileServiceCenterManagementSystem\\VehicleServiceCenter.Domain\\Entities\\Vehicle.cs",
               "RelativeToolTip": "VehicleServiceCenter.Domain\\Entities\\Vehicle.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

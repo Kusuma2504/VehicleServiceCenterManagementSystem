@@ -14,6 +14,12 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 builder.Services.AddControllers();
 
+
+// for Service Registration adding these services --L
+builder.Services.AddScoped<IVehicleService, VehicleService>();
+builder.Services.AddScoped<VehicleRepository>();
+
+
 // Load configuration
 builder.Configuration.AddJsonFile("appsettings.json", optional: false, reloadOnChange: true);
 

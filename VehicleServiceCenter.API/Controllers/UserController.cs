@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Mvc;
 using VehicleServiceCenter.Application.DTOs.Users;
 using VehicleServiceCenter.Application.Interfaces;
 
-namespace VehicleServiceCenter.Presentation.Controllers
+namespace VehicleServiceCenter.API.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]

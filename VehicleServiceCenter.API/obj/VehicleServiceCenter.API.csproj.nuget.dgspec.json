@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LENOVO\\OneDrive\\Desktop\\projecttt\\VehicleServiceCenter.API\\VehicleServiceCenter.API.csproj": {}
+    "C:\\Users\\Lanka Ramya\\OneDrive\\Desktop\\VechileServiceCenterManagementSystem\\VehicleServiceCenter.API\\VehicleServiceCenter.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LENOVO\\OneDrive\\Desktop\\projecttt\\VehicleServiceCenter.API\\VehicleServiceCenter.API.csproj": {
+    "C:\\Users\\Lanka Ramya\\OneDrive\\Desktop\\VechileServiceCenterManagementSystem\\VehicleServiceCenter.API\\VehicleServiceCenter.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\projecttt\\VehicleServiceCenter.API\\VehicleServiceCenter.API.csproj",
+        "projectUniqueName": "C:\\Users\\Lanka Ramya\\OneDrive\\Desktop\\VechileServiceCenterManagementSystem\\VehicleServiceCenter.API\\VehicleServiceCenter.API.csproj",
         "projectName": "VehicleServiceCenter.API",
-        "projectPath": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\projecttt\\VehicleServiceCenter.API\\VehicleServiceCenter.API.csproj",
-        "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\projecttt\\VehicleServiceCenter.API\\obj\\",
+        "projectPath": "C:\\Users\\Lanka Ramya\\OneDrive\\Desktop\\VechileServiceCenterManagementSystem\\VehicleServiceCenter.API\\VehicleServiceCenter.API.csproj",
+        "packagesPath": "C:\\Users\\Lanka Ramya\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lanka Ramya\\OneDrive\\Desktop\\VechileServiceCenterManagementSystem\\VehicleServiceCenter.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Lanka Ramya\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,21 +26,20 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\LENOVO\\OneDrive\\Desktop\\projecttt\\VehicleServiceCenter.Application\\VehicleServiceCenter.Application.csproj": {
-                "projectPath": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\projecttt\\VehicleServiceCenter.Application\\VehicleServiceCenter.Application.csproj"
+              "C:\\Users\\Lanka Ramya\\OneDrive\\Desktop\\VechileServiceCenterManagementSystem\\VehicleServiceCenter.Application\\VehicleServiceCenter.Application.csproj": {
+                "projectPath": "C:\\Users\\Lanka Ramya\\OneDrive\\Desktop\\VechileServiceCenterManagementSystem\\VehicleServiceCenter.Application\\VehicleServiceCenter.Application.csproj"
               },
-              "C:\\Users\\LENOVO\\OneDrive\\Desktop\\projecttt\\VehicleServiceCenter.Domain\\VehicleServiceCenter.Domain.csproj": {
-                "projectPath": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\projecttt\\VehicleServiceCenter.Domain\\VehicleServiceCenter.Domain.csproj"
+              "C:\\Users\\Lanka Ramya\\OneDrive\\Desktop\\VechileServiceCenterManagementSystem\\VehicleServiceCenter.Domain\\VehicleServiceCenter.Domain.csproj": {
+                "projectPath": "C:\\Users\\Lanka Ramya\\OneDrive\\Desktop\\VechileServiceCenterManagementSystem\\VehicleServiceCenter.Domain\\VehicleServiceCenter.Domain.csproj"
               },
-              "C:\\Users\\LENOVO\\OneDrive\\Desktop\\projecttt\\VehicleServiceCenter.Infrastructure\\VehicleServiceCenter.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\projecttt\\VehicleServiceCenter.Infrastructure\\VehicleServiceCenter.Infrastructure.csproj"
+              "C:\\Users\\Lanka Ramya\\OneDrive\\Desktop\\VechileServiceCenterManagementSystem\\VehicleServiceCenter.Infrastructure\\VehicleServiceCenter.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Lanka Ramya\\OneDrive\\Desktop\\VechileServiceCenterManagementSystem\\VehicleServiceCenter.Infrastructure\\VehicleServiceCenter.Infrastructure.csproj"
               }
             }
           }
@@ -117,24 +116,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\LENOVO\\OneDrive\\Desktop\\projecttt\\VehicleServiceCenter.Application\\VehicleServiceCenter.Application.csproj": {
+    "C:\\Users\\Lanka Ramya\\OneDrive\\Desktop\\VechileServiceCenterManagementSystem\\VehicleServiceCenter.Application\\VehicleServiceCenter.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\projecttt\\VehicleServiceCenter.Application\\VehicleServiceCenter.Application.csproj",
+        "projectUniqueName": "C:\\Users\\Lanka Ramya\\OneDrive\\Desktop\\VechileServiceCenterManagementSystem\\VehicleServiceCenter.Application\\VehicleServiceCenter.Application.csproj",
         "projectName": "VehicleServiceCenter.Application",
-        "projectPath": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\projecttt\\VehicleServiceCenter.Application\\VehicleServiceCenter.Application.csproj",
-        "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\projecttt\\VehicleServiceCenter.Application\\obj\\",
+        "projectPath": "C:\\Users\\Lanka Ramya\\OneDrive\\Desktop\\VechileServiceCenterManagementSystem\\VehicleServiceCenter.Application\\VehicleServiceCenter.Application.csproj",
+        "packagesPath": "C:\\Users\\Lanka Ramya\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lanka Ramya\\OneDrive\\Desktop\\VechileServiceCenterManagementSystem\\VehicleServiceCenter.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Lanka Ramya\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -143,18 +142,17 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\LENOVO\\OneDrive\\Desktop\\projecttt\\VehicleServiceCenter.Domain\\VehicleServiceCenter.Domain.csproj": {
-                "projectPath": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\projecttt\\VehicleServiceCenter.Domain\\VehicleServiceCenter.Domain.csproj"
+              "C:\\Users\\Lanka Ramya\\OneDrive\\Desktop\\VechileServiceCenterManagementSystem\\VehicleServiceCenter.Domain\\VehicleServiceCenter.Domain.csproj": {
+                "projectPath": "C:\\Users\\Lanka Ramya\\OneDrive\\Desktop\\VechileServiceCenterManagementSystem\\VehicleServiceCenter.Domain\\VehicleServiceCenter.Domain.csproj"
               },
-              "C:\\Users\\LENOVO\\OneDrive\\Desktop\\projecttt\\VehicleServiceCenter.Infrastructure\\VehicleServiceCenter.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\projecttt\\VehicleServiceCenter.Infrastructure\\VehicleServiceCenter.Infrastructure.csproj"
+              "C:\\Users\\Lanka Ramya\\OneDrive\\Desktop\\VechileServiceCenterManagementSystem\\VehicleServiceCenter.Infrastructure\\VehicleServiceCenter.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Lanka Ramya\\OneDrive\\Desktop\\VechileServiceCenterManagementSystem\\VehicleServiceCenter.Infrastructure\\VehicleServiceCenter.Infrastructure.csproj"
               }
             }
           }
@@ -216,24 +214,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\LENOVO\\OneDrive\\Desktop\\projecttt\\VehicleServiceCenter.Domain\\VehicleServiceCenter.Domain.csproj": {
+    "C:\\Users\\Lanka Ramya\\OneDrive\\Desktop\\VechileServiceCenterManagementSystem\\VehicleServiceCenter.Domain\\VehicleServiceCenter.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\projecttt\\VehicleServiceCenter.Domain\\VehicleServiceCenter.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Lanka Ramya\\OneDrive\\Desktop\\VechileServiceCenterManagementSystem\\VehicleServiceCenter.Domain\\VehicleServiceCenter.Domain.csproj",
         "projectName": "VehicleServiceCenter.Domain",
-        "projectPath": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\projecttt\\VehicleServiceCenter.Domain\\VehicleServiceCenter.Domain.csproj",
-        "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\projecttt\\VehicleServiceCenter.Domain\\obj\\",
+        "projectPath": "C:\\Users\\Lanka Ramya\\OneDrive\\Desktop\\VechileServiceCenterManagementSystem\\VehicleServiceCenter.Domain\\VehicleServiceCenter.Domain.csproj",
+        "packagesPath": "C:\\Users\\Lanka Ramya\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lanka Ramya\\OneDrive\\Desktop\\VechileServiceCenterManagementSystem\\VehicleServiceCenter.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Lanka Ramya\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -242,7 +240,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -308,24 +305,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\LENOVO\\OneDrive\\Desktop\\projecttt\\VehicleServiceCenter.Infrastructure\\VehicleServiceCenter.Infrastructure.csproj": {
+    "C:\\Users\\Lanka Ramya\\OneDrive\\Desktop\\VechileServiceCenterManagementSystem\\VehicleServiceCenter.Infrastructure\\VehicleServiceCenter.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\projecttt\\VehicleServiceCenter.Infrastructure\\VehicleServiceCenter.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\Lanka Ramya\\OneDrive\\Desktop\\VechileServiceCenterManagementSystem\\VehicleServiceCenter.Infrastructure\\VehicleServiceCenter.Infrastructure.csproj",
         "projectName": "VehicleServiceCenter.Infrastructure",
-        "projectPath": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\projecttt\\VehicleServiceCenter.Infrastructure\\VehicleServiceCenter.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\projecttt\\VehicleServiceCenter.Infrastructure\\obj\\",
+        "projectPath": "C:\\Users\\Lanka Ramya\\OneDrive\\Desktop\\VechileServiceCenterManagementSystem\\VehicleServiceCenter.Infrastructure\\VehicleServiceCenter.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Lanka Ramya\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lanka Ramya\\OneDrive\\Desktop\\VechileServiceCenterManagementSystem\\VehicleServiceCenter.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Lanka Ramya\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -334,15 +331,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\LENOVO\\OneDrive\\Desktop\\projecttt\\VehicleServiceCenter.Domain\\VehicleServiceCenter.Domain.csproj": {
-                "projectPath": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\projecttt\\VehicleServiceCenter.Domain\\VehicleServiceCenter.Domain.csproj"
+              "C:\\Users\\Lanka Ramya\\OneDrive\\Desktop\\VechileServiceCenterManagementSystem\\VehicleServiceCenter.Domain\\VehicleServiceCenter.Domain.csproj": {
+                "projectPath": "C:\\Users\\Lanka Ramya\\OneDrive\\Desktop\\VechileServiceCenterManagementSystem\\VehicleServiceCenter.Domain\\VehicleServiceCenter.Domain.csproj"
               }
             }
           }
@@ -408,7 +404,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
