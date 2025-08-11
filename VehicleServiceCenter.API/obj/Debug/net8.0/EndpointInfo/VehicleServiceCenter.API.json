@@ -5,7 +5,7 @@
     "version": "v1"
   },
   "paths": {
-    "/api/Auth/register": {
+    "/Register": {
       "post": {
         "tags": [
           "Auth"
@@ -36,7 +36,7 @@
         }
       }
     },
-    "/api/Auth/login": {
+    "/Login": {
       "post": {
         "tags": [
           "Auth"
@@ -67,7 +67,7 @@
         }
       }
     },
-    "/api/ServiceRequest": {
+    "/ServiceRequest": {
       "post": {
         "tags": [
           "ServiceRequest"
@@ -98,7 +98,7 @@
         }
       }
     },
-    "/api/ServiceRequest/{id}": {
+    "/ServiceRequest/{id}": {
       "get": {
         "tags": [
           "ServiceRequest"
@@ -142,7 +142,7 @@
         }
       }
     },
-    "/api/ServiceRequest/vehicle/{vehicleId}": {
+    "/ServiceRequest/vehicle/{vehicleId}": {
       "get": {
         "tags": [
           "ServiceRequest"
@@ -165,7 +165,7 @@
         }
       }
     },
-    "/api/ServiceRequest/{id}/status": {
+    "/ServiceRequest/{id}/status": {
       "put": {
         "tags": [
           "ServiceRequest"
@@ -207,7 +207,7 @@
         }
       }
     },
-    "/api/User": {
+    "/User": {
       "get": {
         "tags": [
           "User"
@@ -248,7 +248,7 @@
         }
       }
     },
-    "/api/User/{id}": {
+    "/User/{id}": {
       "get": {
         "tags": [
           "User"
@@ -332,7 +332,7 @@
         }
       }
     },
-    "/api/User/assign-role": {
+    "/User/assign-role": {
       "post": {
         "tags": [
           "User"
@@ -363,7 +363,7 @@
         }
       }
     },
-    "/api/User/remove-role": {
+    "/User/remove-role": {
       "post": {
         "tags": [
           "User"
@@ -394,7 +394,7 @@
         }
       }
     },
-    "/api/Vehicle": {
+    "/Vehicle": {
       "post": {
         "tags": [
           "Vehicle"
@@ -425,7 +425,7 @@
         }
       }
     },
-    "/api/Vehicle/owner/{ownerId}": {
+    "/Vehicle/owner/{ownerId}": {
       "get": {
         "tags": [
           "Vehicle"
@@ -448,7 +448,7 @@
         }
       }
     },
-    "/api/Vehicle/{id}": {
+    "/Vehicle/{id}": {
       "put": {
         "tags": [
           "Vehicle"
@@ -517,11 +517,11 @@
       "AssignRoleDto": {
         "type": "object",
         "properties": {
-          "userId": {
+          "UserId": {
             "type": "integer",
             "format": "int32"
           },
-          "roleName": {
+          "RoleName": {
             "type": "string",
             "nullable": true
           }
@@ -531,20 +531,24 @@
       "CreateServiceRequestDto": {
         "type": "object",
         "properties": {
-          "vehicleId": {
+          "VehicleId": {
+            "maximum": 2147483647,
+            "minimum": 1,
             "type": "integer",
             "format": "int32"
           },
-          "customerId": {
+          "CustomerId": {
+            "maximum": 2147483647,
+            "minimum": 1,
             "type": "integer",
             "format": "int32"
           },
-          "technicianId": {
+          "TechnicianId": {
             "type": "integer",
             "format": "int32",
             "nullable": true
           },
-          "notes": {
+          "Notes": {
             "type": "string",
             "nullable": true
           }
@@ -552,43 +556,57 @@
         "additionalProperties": false
       },
       "CreateUserDto": {
+        "required": [
+          "Email",
+          "Password",
+          "Username",
+          "UserType"
+        ],
         "type": "object",
         "properties": {
-          "username": {
-            "type": "string",
-            "nullable": true
+          "Username": {
+            "minLength": 1,
+            "type": "string"
           },
-          "email": {
+          "Email": {
+            "minLength": 1,
             "type": "string",
-            "nullable": true
+            "format": "email"
           },
-          "password": {
-            "type": "string",
-            "nullable": true
+          "Password": {
+            "minLength": 6,
+            "type": "string"
           },
-          "userType": {
-            "type": "string",
-            "nullable": true
+          "UserType": {
+            "minLength": 1,
+            "type": "string"
           }
         },
         "additionalProperties": false
       },
       "CreateVehicleDto": {
+        "required": [
+          "Make",
+          "Model",
+          "RegistrationNumber"
+        ],
         "type": "object",
         "properties": {
-          "registrationNumber": {
-            "type": "string",
-            "nullable": true
+          "RegistrationNumber": {
+            "minLength": 1,
+            "type": "string"
           },
-          "make": {
-            "type": "string",
-            "nullable": true
+          "Make": {
+            "minLength": 1,
+            "type": "string"
           },
-          "model": {
-            "type": "string",
-            "nullable": true
+          "Model": {
+            "minLength": 1,
+            "type": "string"
           },
-          "ownerId": {
+          "OwnerId": {
+            "maximum": 2147483647,
+            "minimum": 1,
             "type": "integer",
             "format": "int32"
           }
@@ -596,37 +614,48 @@
         "additionalProperties": false
       },
       "LoginRequestDto": {
+        "required": [
+          "Password",
+          "Username"
+        ],
         "type": "object",
         "properties": {
-          "email": {
-            "type": "string",
-            "nullable": true
+          "Username": {
+            "minLength": 1,
+            "type": "string"
           },
-          "password": {
-            "type": "string",
-            "nullable": true
+          "Password": {
+            "minLength": 6,
+            "type": "string"
           }
         },
         "additionalProperties": false
       },
       "RegisterRequestDto": {
+        "required": [
+          "Email",
+          "Password",
+          "Username",
+          "UserType"
+        ],
         "type": "object",
         "properties": {
-          "username": {
-            "type": "string",
-            "nullable": true
+          "Username": {
+            "minLength": 1,
+            "type": "string"
           },
-          "email": {
+          "Email": {
+            "minLength": 1,
             "type": "string",
-            "nullable": true
+            "format": "email"
           },
-          "password": {
-            "type": "string",
-            "nullable": true
+          "Password": {
+            "minLength": 6,
+            "type": "string"
           },
-          "userType": {
-            "type": "string",
-            "nullable": true
+          "UserType": {
+            "minLength": 1,
+            "type": "string"
           }
         },
         "additionalProperties": false
@@ -634,16 +663,16 @@
       "UpdateServiceStatusDto": {
         "type": "object",
         "properties": {
-          "status": {
+          "Status": {
             "type": "string",
             "nullable": true
           },
-          "cost": {
+          "Cost": {
             "type": "number",
             "format": "double",
             "nullable": true
           },
-          "notes": {
+          "Notes": {
             "type": "string",
             "nullable": true
           }
@@ -653,15 +682,15 @@
       "UpdateUserDto": {
         "type": "object",
         "properties": {
-          "username": {
+          "Username": {
             "type": "string",
             "nullable": true
           },
-          "email": {
+          "Email": {
             "type": "string",
             "nullable": true
           },
-          "userType": {
+          "UserType": {
             "type": "string",
             "nullable": true
           }
@@ -671,15 +700,15 @@
       "UpdateVehicleDto": {
         "type": "object",
         "properties": {
-          "registrationNumber": {
+          "RegistrationNumber": {
             "type": "string",
             "nullable": true
           },
-          "make": {
+          "Make": {
             "type": "string",
             "nullable": true
           },
-          "model": {
+          "Model": {
             "type": "string",
             "nullable": true
           }

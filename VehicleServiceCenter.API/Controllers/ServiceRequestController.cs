@@ -6,7 +6,7 @@ using VehicleServiceCenter.Application.Interfaces;
 namespace VehicleServiceCenter.Presentation.Controllers
 {
     [ApiController]
-    [Route("api/[controller]")]
+    [Route("[controller]")]
     [Authorize]
     public class ServiceRequestController : ControllerBase
     {

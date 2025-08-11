@@ -25,37 +25,46 @@ namespace VehicleServiceCenter.Application.Services
             _jwtTokenGenerator = jwtTokenGenerator;
         }
 
-        public async Task<AuthResponseDto> RegisterAsync(RegisterRequestDto request)
+        public async Task<AuthRegisterDto> RegisterAsync(RegisterRequestDto request)
         {
+            var result = new AuthRegisterDto();
+
             var existingUser = await _authRepository.GetUserByEmailAsync(request.Email);
             if (existingUser != null)
             {
-                return new AuthResponseDto { Success = false, Message = "Email already registered" };
+                result.Success = false;
+                result.Message = "Email already registered";
+            }
+            else
+            {
+                var hashedPassword = _passwordHasher.HashPassword(request.Password);
+                var user = new User
+                {
+                    Username = request.Username,
+                    Email = request.Email,
+                    PasswordHash = hashedPassword,
+                    UserType = Enum.Parse<UserType>(request.UserType, true)
+                };
+
+                await _authRepository.CreateUserAsync(user);
+                result.Success = true;
+                result.Message = "Registration successful";
             }
 
-            var hashedPassword = _passwordHasher.HashPassword(request.Password);
-            var user = new User
-            {
-                Username = request.Username,
-                Email = request.Email,
-                PasswordHash = hashedPassword,
-                UserType = Enum.Parse<UserType>(request.UserType, true)
-            };
-
-            await _authRepository.CreateUserAsync(user);
-            return new AuthResponseDto { Success = true, Message = "Registration successful" };
+            return result;
         }
+
 
         public async Task<AuthResponseDto> LoginAsync(LoginRequestDto request)
         {
-            var user = await _authRepository.GetUserByEmailAsync(request.Email);
+            var user = await _authRepository.GetUserByEmailAsync(request.Username);
             if (user == null || !_passwordHasher.VerifyPassword(request.Password, user.PasswordHash))
             {
-                return new AuthResponseDto { Success = false, Message = "Invalid email or password" };
+                return new AuthResponseDto { Success = false };
             }
 
             var token = _jwtTokenGenerator.GenerateToken(user);
-            return new AuthResponseDto { Success = true, Message = "Login successful", Token = token };
+            return new AuthResponseDto { Success = true, Token = token };
         }
     }
 }

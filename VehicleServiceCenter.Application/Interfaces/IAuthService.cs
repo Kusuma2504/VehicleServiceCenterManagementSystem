@@ -9,7 +9,7 @@ namespace VehicleServiceCenter.Application.Interfaces
 {
     public interface IAuthService
     {
-        Task<AuthResponseDto> RegisterAsync(RegisterRequestDto request);
+        Task<AuthRegisterDto> RegisterAsync(RegisterRequestDto request);
         Task<AuthResponseDto> LoginAsync(LoginRequestDto request);
     }
 }

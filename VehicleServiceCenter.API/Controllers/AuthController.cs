@@ -8,7 +8,6 @@ using VehicleServiceCenter.Application.Interfaces;
 namespace VehicleServiceCenter.Presentation.Controllers
 {
     [ApiController]
-    [Route("api/[controller]")]
     public class AuthController : ControllerBase
     {
         private readonly IAuthService _authService;
@@ -18,7 +17,7 @@ namespace VehicleServiceCenter.Presentation.Controllers
             _authService = authService;
         }
 
-        [HttpPost("register")]
+        [HttpPost("Register")]
         public async Task<IActionResult> Register([FromBody] RegisterRequestDto request)
         {
             var result = await _authService.RegisterAsync(request);
@@ -28,7 +27,7 @@ namespace VehicleServiceCenter.Presentation.Controllers
             return Ok(result);
         }
 
-        [HttpPost("login")]
+        [HttpPost("Login")]
         public async Task<IActionResult> Login([FromBody] LoginRequestDto request)
         {
             var result = await _authService.LoginAsync(request);

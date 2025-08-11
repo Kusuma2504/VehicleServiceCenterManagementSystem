@@ -12,7 +12,7 @@ using VehicleServiceCenter.Infrastructure.Data;
 namespace VehicleServiceCenter.Infrastructure.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20250810163742_VehicleServiceCenterMigration")]
+    [Migration("20250811103753_VehicleServiceCenterMigration")]
     partial class VehicleServiceCenterMigration
     {
         /// <inheritdoc />

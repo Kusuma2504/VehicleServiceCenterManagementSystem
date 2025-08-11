@@ -2,7 +2,7 @@
   {
     "ContainingType": "VehicleServiceCenter.Presentation.Controllers.AuthController",
     "Method": "Login",
-    "RelativePath": "api/Auth/login",
+    "RelativePath": "Login",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
@@ -18,7 +18,7 @@
   {
     "ContainingType": "VehicleServiceCenter.Presentation.Controllers.AuthController",
     "Method": "Register",
-    "RelativePath": "api/Auth/register",
+    "RelativePath": "Register",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
@@ -34,7 +34,7 @@
   {
     "ContainingType": "VehicleServiceCenter.Presentation.Controllers.ServiceRequestController",
     "Method": "Create",
-    "RelativePath": "api/ServiceRequest",
+    "RelativePath": "ServiceRequest",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
@@ -50,7 +50,7 @@
   {
     "ContainingType": "VehicleServiceCenter.Presentation.Controllers.ServiceRequestController",
     "Method": "GetById",
-    "RelativePath": "api/ServiceRequest/{id}",
+    "RelativePath": "ServiceRequest/{id}",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -66,7 +66,7 @@
   {
     "ContainingType": "VehicleServiceCenter.Presentation.Controllers.ServiceRequestController",
     "Method": "Delete",
-    "RelativePath": "api/ServiceRequest/{id}",
+    "RelativePath": "ServiceRequest/{id}",
     "HttpMethod": "DELETE",
     "IsController": true,
     "Order": 0,
@@ -82,7 +82,7 @@
   {
     "ContainingType": "VehicleServiceCenter.Presentation.Controllers.ServiceRequestController",
     "Method": "UpdateStatus",
-    "RelativePath": "api/ServiceRequest/{id}/status",
+    "RelativePath": "ServiceRequest/{id}/status",
     "HttpMethod": "PUT",
     "IsController": true,
     "Order": 0,
@@ -103,7 +103,7 @@
   {
     "ContainingType": "VehicleServiceCenter.Presentation.Controllers.ServiceRequestController",
     "Method": "GetByVehicle",
-    "RelativePath": "api/ServiceRequest/vehicle/{vehicleId}",
+    "RelativePath": "ServiceRequest/vehicle/{vehicleId}",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -119,7 +119,7 @@
   {
     "ContainingType": "VehicleServiceCenter.Presentation.Controllers.UserController",
     "Method": "GetAllUsers",
-    "RelativePath": "api/User",
+    "RelativePath": "User",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -129,7 +129,7 @@
   {
     "ContainingType": "VehicleServiceCenter.Presentation.Controllers.UserController",
     "Method": "CreateUser",
-    "RelativePath": "api/User",
+    "RelativePath": "User",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
@@ -145,7 +145,7 @@
   {
     "ContainingType": "VehicleServiceCenter.Presentation.Controllers.UserController",
     "Method": "GetUserById",
-    "RelativePath": "api/User/{id}",
+    "RelativePath": "User/{id}",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -161,7 +161,7 @@
   {
     "ContainingType": "VehicleServiceCenter.Presentation.Controllers.UserController",
     "Method": "UpdateUser",
-    "RelativePath": "api/User/{id}",
+    "RelativePath": "User/{id}",
     "HttpMethod": "PUT",
     "IsController": true,
     "Order": 0,
@@ -182,7 +182,7 @@
   {
     "ContainingType": "VehicleServiceCenter.Presentation.Controllers.UserController",
     "Method": "DeleteUser",
-    "RelativePath": "api/User/{id}",
+    "RelativePath": "User/{id}",
     "HttpMethod": "DELETE",
     "IsController": true,
     "Order": 0,
@@ -198,7 +198,7 @@
   {
     "ContainingType": "VehicleServiceCenter.Presentation.Controllers.UserController",
     "Method": "AssignRole",
-    "RelativePath": "api/User/assign-role",
+    "RelativePath": "User/assign-role",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
@@ -214,7 +214,7 @@
   {
     "ContainingType": "VehicleServiceCenter.Presentation.Controllers.UserController",
     "Method": "RemoveRole",
-    "RelativePath": "api/User/remove-role",
+    "RelativePath": "User/remove-role",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
@@ -230,7 +230,7 @@
   {
     "ContainingType": "VehicleServiceCenter.API.Controllers.VehicleController",
     "Method": "RegisterVehicle",
-    "RelativePath": "api/Vehicle",
+    "RelativePath": "Vehicle",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
@@ -246,7 +246,7 @@
   {
     "ContainingType": "VehicleServiceCenter.API.Controllers.VehicleController",
     "Method": "UpdateVehicle",
-    "RelativePath": "api/Vehicle/{id}",
+    "RelativePath": "Vehicle/{id}",
     "HttpMethod": "PUT",
     "IsController": true,
     "Order": 0,
@@ -267,7 +267,7 @@
   {
     "ContainingType": "VehicleServiceCenter.API.Controllers.VehicleController",
     "Method": "DeleteVehicle",
-    "RelativePath": "api/Vehicle/{id}",
+    "RelativePath": "Vehicle/{id}",
     "HttpMethod": "DELETE",
     "IsController": true,
     "Order": 0,
@@ -283,7 +283,7 @@
   {
     "ContainingType": "VehicleServiceCenter.API.Controllers.VehicleController",
     "Method": "GetVehiclesByOwner",
-    "RelativePath": "api/Vehicle/owner/{ownerId}",
+    "RelativePath": "Vehicle/owner/{ownerId}",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
