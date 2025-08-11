@@ -14,11 +14,11 @@ namespace VehicleServiceCenter.Application.Services
 {
     public class AuthService : IAuthService
     {
-        private readonly AuthRepository _authRepository;
-        private readonly PasswordHasher _passwordHasher;
-        private readonly JwtTokenGenerator _jwtTokenGenerator;
+        private readonly IAuthRepository _authRepository;
+        private readonly IPasswordHasher _passwordHasher;
+        private readonly IJwtTokenGenerator _jwtTokenGenerator;
 
-        public AuthService(AuthRepository authRepository, PasswordHasher passwordHasher, JwtTokenGenerator jwtTokenGenerator)
+        public AuthService(IAuthRepository authRepository, IPasswordHasher passwordHasher, IJwtTokenGenerator jwtTokenGenerator)
         {
             _authRepository = authRepository;
             _passwordHasher = passwordHasher;
@@ -29,7 +29,7 @@ namespace VehicleServiceCenter.Application.Services
         {
             var result = new AuthRegisterDto();
 
-            var existingUser = await _authRepository.GetUserByEmailAsync(request.Email);
+            var existingUser = await _authRepository.GetUserByUsernameAsync(request.Email);
             if (existingUser != null)
             {
                 result.Success = false;
@@ -57,7 +57,7 @@ namespace VehicleServiceCenter.Application.Services
 
         public async Task<AuthResponseDto> LoginAsync(LoginRequestDto request)
         {
-            var user = await _authRepository.GetUserByEmailAsync(request.Username);
+            var user = await _authRepository.GetUserByUsernameAsync(request.Username);
             if (user == null || !_passwordHasher.VerifyPassword(request.Password, user.PasswordHash))
             {
                 return new AuthResponseDto { Success = false };

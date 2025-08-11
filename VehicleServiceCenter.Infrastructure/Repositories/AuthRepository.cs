@@ -9,7 +9,7 @@ using VehicleServiceCenter.Infrastructure.Data;
 
 namespace VehicleServiceCenter.Infrastructure.Repositories
 {
-    public class AuthRepository
+    public class AuthRepository : IAuthRepository
     {
         private readonly AppDbContext _context;
 
@@ -18,7 +18,7 @@ namespace VehicleServiceCenter.Infrastructure.Repositories
             _context = context;
         }
 
-        public async Task<User> GetUserByEmailAsync(string username)
+        public async Task<User> GetUserByUsernameAsync(string username)
         {
             return await _context.Users.FirstOrDefaultAsync(u => u.Username == username);
         }

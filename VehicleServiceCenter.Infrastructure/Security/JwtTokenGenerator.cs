@@ -11,7 +11,7 @@ using VehicleServiceCenter.Domain.Entities;
 
 namespace VehicleServiceCenter.Infrastructure.Security
 {
-    public class JwtTokenGenerator
+    public class JwtTokenGenerator : IJwtTokenGenerator
     {
         private readonly IConfiguration _configuration;
 

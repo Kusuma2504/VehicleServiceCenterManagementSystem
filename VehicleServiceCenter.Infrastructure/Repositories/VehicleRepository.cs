@@ -9,7 +9,7 @@ using VehicleServiceCenter.Infrastructure.Data;
 
 namespace VehicleServiceCenter.Infrastructure.Repositories
 {
-    public class VehicleRepository
+    public class VehicleRepository : IVehicleRepository
     {
         private readonly AppDbContext _context;
 

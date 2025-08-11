@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VehicleServiceCenter.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+334ac8442ae5b8000f245ea0051d203d66304cd5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5ae6d7d056ab3a16f797c1cdb16f86bc1398ea11")]
 [assembly: System.Reflection.AssemblyProductAttribute("VehicleServiceCenter.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VehicleServiceCenter.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

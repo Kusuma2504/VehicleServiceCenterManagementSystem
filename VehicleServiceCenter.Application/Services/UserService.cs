@@ -12,10 +12,10 @@ namespace VehicleServiceCenter.Application.Services
 {
     public class UserService : IUserService
     {
-        private readonly UserRepository _userRepo;
-        private readonly PasswordHasher _hasher;
+        private readonly IUserRepository _userRepo;
+        private readonly IPasswordHasher _hasher;
 
-        public UserService(UserRepository userRepo, PasswordHasher hasher)
+        public UserService(IUserRepository userRepo, IPasswordHasher hasher)
         {
             _userRepo = userRepo;
             _hasher = hasher;

@@ -17,11 +17,11 @@ builder.Services.AddControllers();
 
 // for Service Registration adding these services --L
 builder.Services.AddScoped<IVehicleService, VehicleService>();
-builder.Services.AddScoped<VehicleRepository>();
+builder.Services.AddScoped<IVehicleRepository,VehicleRepository>();
 
 //for service request adding these services
 builder.Services.AddScoped<IServiceRequestService, ServiceRequestService>();
-builder.Services.AddScoped<ServiceRequestRepository>();
+builder.Services.AddScoped<IServiceRequestRepository, ServiceRequestRepository>();
 
 // Load configuration
 builder.Configuration.AddJsonFile("appsettings.json", optional: false, reloadOnChange: true);
@@ -36,13 +36,13 @@ builder.Services.AddDbContext<AppDbContext>(options =>
 // Dependency injection
 // Aishwarya's Auth module
 builder.Services.AddScoped<IAuthService, AuthService>();
-builder.Services.AddScoped<AuthRepository>();
-builder.Services.AddScoped<PasswordHasher>();
-builder.Services.AddScoped<JwtTokenGenerator>();
+builder.Services.AddScoped<IAuthRepository, AuthRepository>();
+builder.Services.AddScoped<IPasswordHasher, PasswordHasher>();
+builder.Services.AddScoped<IJwtTokenGenerator, JwtTokenGenerator>();
 
 // ? Likhitha's User module
 builder.Services.AddScoped<IUserService, UserService>();
-builder.Services.AddScoped<UserRepository>();
+builder.Services.AddScoped<IUserRepository, UserRepository>();
 
 // JWT configuration
 var jwtSettings = builder.Configuration.GetSection("Jwt");

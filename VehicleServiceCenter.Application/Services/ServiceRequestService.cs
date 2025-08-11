@@ -8,9 +8,9 @@ namespace VehicleServiceCenter.Application.Services
 {
     public class ServiceRequestService : IServiceRequestService
     {
-        private readonly ServiceRequestRepository _repository;
+        private readonly IServiceRequestRepository _repository;
 
-        public ServiceRequestService(ServiceRequestRepository repository)
+        public ServiceRequestService(IServiceRequestRepository repository)
         {
             _repository = repository;
         }

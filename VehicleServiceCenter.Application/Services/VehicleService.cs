@@ -12,9 +12,9 @@ namespace VehicleServiceCenter.Application.Services
 {
     public class VehicleService : IVehicleService
     {
-        private readonly VehicleRepository _vehicleRepository;
+        private readonly IVehicleRepository _vehicleRepository;
 
-        public VehicleService(VehicleRepository vehicleRepository)
+        public VehicleService(IVehicleRepository vehicleRepository)
         {
             _vehicleRepository = vehicleRepository;
         }

@@ -4,7 +4,7 @@ using VehicleServiceCenter.Infrastructure.Data;
 
 namespace VehicleServiceCenter.Infrastructure.Repositories
 {
-    public class ServiceRequestRepository
+    public class ServiceRequestRepository : IServiceRequestRepository
     {
         private readonly AppDbContext _context;
 

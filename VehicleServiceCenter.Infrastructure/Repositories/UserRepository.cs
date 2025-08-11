@@ -7,7 +7,7 @@ using VehicleServiceCenter.Infrastructure.Data;
 
 namespace VehicleServiceCenter.Infrastructure.Repositories
 {
-    public class UserRepository
+    public class UserRepository : IUserRepository
     {
         private readonly AppDbContext _db;
         public UserRepository(AppDbContext db) => _db = db;

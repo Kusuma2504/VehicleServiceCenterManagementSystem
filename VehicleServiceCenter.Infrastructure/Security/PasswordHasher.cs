@@ -7,7 +7,7 @@ using BCrypt.Net;
 
 namespace VehicleServiceCenter.Infrastructure.Security
 {
-    public class PasswordHasher
+    public class PasswordHasher : IPasswordHasher
     {
         // Hash a plain text password
         public string HashPassword(string password)

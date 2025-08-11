@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\91703\\OneDrive\\Desktop\\VehicleServiceCentre\\VehicleServiceCenter.Infrastructure\\VehicleServiceCenter.Infrastructure.csproj": {}
+    "C:\\Users\\Lanka Ramya\\OneDrive\\Documents\\Project\\VehicleServiceCenter.Infrastructure\\VehicleServiceCenter.Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\91703\\OneDrive\\Desktop\\VehicleServiceCentre\\VehicleServiceCenter.Domain\\VehicleServiceCenter.Domain.csproj": {
+    "C:\\Users\\Lanka Ramya\\OneDrive\\Documents\\Project\\VehicleServiceCenter.Domain\\VehicleServiceCenter.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\91703\\OneDrive\\Desktop\\VehicleServiceCentre\\VehicleServiceCenter.Domain\\VehicleServiceCenter.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Lanka Ramya\\OneDrive\\Documents\\Project\\VehicleServiceCenter.Domain\\VehicleServiceCenter.Domain.csproj",
         "projectName": "VehicleServiceCenter.Domain",
-        "projectPath": "C:\\Users\\91703\\OneDrive\\Desktop\\VehicleServiceCentre\\VehicleServiceCenter.Domain\\VehicleServiceCenter.Domain.csproj",
-        "packagesPath": "C:\\Users\\91703\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\91703\\OneDrive\\Desktop\\VehicleServiceCentre\\VehicleServiceCenter.Domain\\obj\\",
+        "projectPath": "C:\\Users\\Lanka Ramya\\OneDrive\\Documents\\Project\\VehicleServiceCenter.Domain\\VehicleServiceCenter.Domain.csproj",
+        "packagesPath": "C:\\Users\\Lanka Ramya\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lanka Ramya\\OneDrive\\Documents\\Project\\VehicleServiceCenter.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\91703\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Lanka Ramya\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -91,24 +91,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\91703\\OneDrive\\Desktop\\VehicleServiceCentre\\VehicleServiceCenter.Infrastructure\\VehicleServiceCenter.Infrastructure.csproj": {
+    "C:\\Users\\Lanka Ramya\\OneDrive\\Documents\\Project\\VehicleServiceCenter.Infrastructure\\VehicleServiceCenter.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\91703\\OneDrive\\Desktop\\VehicleServiceCentre\\VehicleServiceCenter.Infrastructure\\VehicleServiceCenter.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\Lanka Ramya\\OneDrive\\Documents\\Project\\VehicleServiceCenter.Infrastructure\\VehicleServiceCenter.Infrastructure.csproj",
         "projectName": "VehicleServiceCenter.Infrastructure",
-        "projectPath": "C:\\Users\\91703\\OneDrive\\Desktop\\VehicleServiceCentre\\VehicleServiceCenter.Infrastructure\\VehicleServiceCenter.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\91703\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\91703\\OneDrive\\Desktop\\VehicleServiceCentre\\VehicleServiceCenter.Infrastructure\\obj\\",
+        "projectPath": "C:\\Users\\Lanka Ramya\\OneDrive\\Documents\\Project\\VehicleServiceCenter.Infrastructure\\VehicleServiceCenter.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Lanka Ramya\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lanka Ramya\\OneDrive\\Documents\\Project\\VehicleServiceCenter.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\91703\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Lanka Ramya\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -123,8 +123,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\91703\\OneDrive\\Desktop\\VehicleServiceCentre\\VehicleServiceCenter.Domain\\VehicleServiceCenter.Domain.csproj": {
-                "projectPath": "C:\\Users\\91703\\OneDrive\\Desktop\\VehicleServiceCentre\\VehicleServiceCenter.Domain\\VehicleServiceCenter.Domain.csproj"
+              "C:\\Users\\Lanka Ramya\\OneDrive\\Documents\\Project\\VehicleServiceCenter.Domain\\VehicleServiceCenter.Domain.csproj": {
+                "projectPath": "C:\\Users\\Lanka Ramya\\OneDrive\\Documents\\Project\\VehicleServiceCenter.Domain\\VehicleServiceCenter.Domain.csproj"
               }
             }
           }
@@ -190,7 +190,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
